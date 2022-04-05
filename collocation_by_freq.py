@@ -1,16 +1,17 @@
-import json, os
-
+import json
+import os
+import numpy as np
 import nltk
 from nltk.corpus import stopwords
 from zemberek import TurkishMorphology
 
 # you need to run this if this is first time trying import stopwords.
-#import nltk
-#nltk.download('stopwords')
-#nltk.download('punkt')
+# import nltk
+# nltk.download('stopwords')
+# nltk.download('punkt')
 
 contents = []
-path_json_files = "documents/docs/"
+path_json_files = "C:/Users/husey/PycharmProjects/pythonProject10/2021-01/"
 pos_tagger = TurkishMorphology.create_with_defaults()
 results = []
 
@@ -27,6 +28,7 @@ def get_text():
         with open(path_json_files + file_name, encoding="utf8") as json_file:
             dict = json.load(json_file)
             text = dict["ictihat"]
+            # print(text)
             contents.extend(clean_text(text))
 
 
@@ -73,13 +75,41 @@ def print_result(filtered_collocations):
     for i in range(100):
         print(filtered_collocations[i])
 
+
+def create_frequency_list(n_grams_list):
+    frequency_list = []
+    for i in n_grams_list:
+        frequency_list.append(i[1])
+    # print(frequency_list)
+    return frequency_list
+
+
+def calculate_mean(frequency_list):
+    return np.mean(frequency_list)
+
+
+def calculate_variance(frequency_list):
+    return np.var(frequency_list)
+
+
 def main():
     get_text()
     bigrams = nltk.bigrams(contents)
     token_freq = nltk.FreqDist(bigrams)
     tagged_collocations = collocation_tags(token_freq)
     filtered_collocations = pos_filter_collocations(tagged_collocations)
+    created_frequency_list = create_frequency_list(filtered_collocations)
+    mean = calculate_mean(created_frequency_list)
+    variance = calculate_variance(created_frequency_list)
     print_result(filtered_collocations)
+    print(mean, variance)
+    # print(f'bigrams {bigrams[1]}')
+    # print(f'token_freq {token_freq}')
+    # print(f'tagged_collocations {tagged_collocations}')
+    # print(f'filtered_collocations {filtered_collocations}')
+
+    # print(results)
+    # print(f'contents: {contents}')
 
 
 if __name__ == '__main__':
