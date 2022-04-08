@@ -1,30 +1,28 @@
-import json
-import os
-import numpy as np
+import json, os
+
 import nltk
 from nltk.corpus import stopwords
 from zemberek import TurkishMorphology
 
 # you need to run this if this is first time trying import stopwords.
-# import nltk
-# nltk.download('stopwords')
-# nltk.download('punkt')
+#import nltk
+#nltk.download('stopwords')
+#nltk.download('punkt')
 
 contents = []
-path_json_files = "C:/Users/husey/PycharmProjects/pythonProject10/2021-01/"
+path_json_files = "documents/docs/"
 pos_tagger = TurkishMorphology.create_with_defaults()
-results = []
 
 
 # read json files
 def get_text():
-    docs_num = 0
+    # docs_num = 0
     for file_name in [file for file in os.listdir(path_json_files) if file.endswith('.json')]:
-
+        """
         docs_num += 1
         if docs_num == 10000:
             break
-
+        """
         with open(path_json_files + file_name, encoding="utf8") as json_file:
             dict = json.load(json_file)
             text = dict["ictihat"]
@@ -75,34 +73,13 @@ def print_result(filtered_collocations):
         print(filtered_collocations[i])
 
 
-def create_frequency_list(n_grams_list):
-    frequency_list = []
-    for i in n_grams_list:
-        frequency_list.append(i[1])
-    # print(frequency_list)
-    return frequency_list
-
-
-def calculate_mean(frequency_list):
-    return np.mean(frequency_list)
-
-
-def calculate_variance(frequency_list):
-    return np.var(frequency_list)
-
-
 def main():
     get_text()
     trigrams = nltk.trigrams(contents)
     token_freq = nltk.FreqDist(trigrams)
     tagged_collocations = collocation_tags(token_freq)
     filtered_collocations = pos_filter_collocations(tagged_collocations)
-    created_frequency_list = create_frequency_list(filtered_collocations)
-    mean = calculate_mean(created_frequency_list)
-    variance = calculate_variance(created_frequency_list)
     print_result(filtered_collocations)
-    print_result(filtered_collocations)
-    print(mean, variance)
 
 
 if __name__ == '__main__':
