@@ -12,20 +12,20 @@ from zemberek import TurkishMorphology
 # nltk.download('punkt')
 
 contents = []
-path_json_files = "C:/Users/husey/PycharmProjects/pythonProject10/2021-01/"
+path_json_files = "C:/Users/hasan/PycharmProjects/CSE4095S22_GRP_9/2021-01/"
 pos_tagger = TurkishMorphology.create_with_defaults()
 results = []
 
 
 # read json files
 def get_text():
-    docs_num = 0
+    #docs_num = 0
 
     for file_name in [file for file in os.listdir(path_json_files) if file.endswith('.json')]:
 
-        docs_num += 1
-        if docs_num == 100:
-            break
+        #docs_num += 1
+        #if docs_num == 400:
+            #break
 
         with open(path_json_files + file_name, encoding="utf8") as json_file:
             dict = json.load(json_file)
@@ -103,18 +103,21 @@ def calculate_mutual_information_values(word_1, word_2, bigram_words,word_1_coun
         carpim = ((word_1_counter*word_2_counter)/(document_total_size*document_total_size))
         deneme_value = real_value/carpim
         mutual_value = math.log2(deneme_value)
-
+        print(
+        f'Word-1: {word_1}, Word-1-Size: {word_1_counter}, Word-2: {word_2}, Word-2-Size: {word_2_counter}, Bigram-Words: {bigram_words}, Bigram-Words-Size: {bigram_freq}, Mutual Information {abs(mutual_value)}')
     except ZeroDivisionError:
         mutual_value = 1
-        print(
-            f'Word-1: {word_1}, Word-1-Size: {word_1_counter}, Word-2: {word_2}, Word-2-Size: {word_2_counter}, Bigram-Words: {bigram_words}, Bigram-Words-Size: {bigram_freq}, Mutual Information {abs(mutual_value)}')
+
 
 
 def get_mutual_information_values(tagged_unigram, tagged_bigram, document_total_size):
-
+    loop_stop_counter = 0
     word_1_counter = 0
     word_2_counter = 0
     for i in tagged_bigram:
+        loop_stop_counter += 1
+        if loop_stop_counter == 201:
+            break
         bigram_freq = i[1]
         bigram_words = i[0]
         # print(type(bigram_freq))
