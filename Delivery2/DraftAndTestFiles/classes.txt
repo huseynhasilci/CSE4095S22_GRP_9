@@ -1,0 +1,1759 @@
+bilinçli taksirle ölüme neden olma: 1
+birlikte tehdit, mala zarar verme, kasten yaralama: 1
+nitelikli hırsızlık, işyeri dokunulmazlığını ihlali, mala zarar verme: 1
+silahla tehdit, kasten yaralamaya teşebbüs etme, genel güvenliği kasten tehlikeye sokma, 6136 sayılı kanuna muhalefet etme: 1
+tehdit, yaralama, hırsızlık: 1
+nitelikli hırsızlık, resmi belgeyi bozma, yok etme: 1
+silahla yağmaya teşebbüs, hürriyetten yoksun bırakma: 1
+birden fazla kişi tarafından birlikte tehdit: 1
+nitelikli yağma, 6136 sayılı yasaya muhalefet: 1
+köy tüzel kişiliğine ait veya köylünün ortak yararlanmasındaki taşınmazlara tecavüz: 1
+suç delillerini yok etme, gizleme veya değiştirme, kasten yaralama: 1
+6136 sayılı yasaya muhalefet, silahla tehdit, silahla kasten yaralama: 1
+silahla kasten yaralamaya teşebbüs, silahla tehdit: 1
+tehdit, yaralama, görevi yaptırmamak için direnme: 1
+sanık ... hakkında rüşvet alma, sanık ... hakkında rüşvet verme: 1
+sağlık için tehlikeli madde temin etme: 1
+birden fazla kişi tarafından birlikte, silahla, suç örgütlerinin oluşturdukları korkutucu güçten yararlanarak, suç örgütüne yarar sağlamak amacıyla yağma: 1
+6136 sayılı yasaya muhalefet: 1
+resmi belgede zincirleme sahtecilik: 1
+tehdit, sair tehdit, hakaret: 1
+tehdit, görevi yaptırmamak için direnme, 6136 sayılı yasaya muhalefet: 1
+hırsızlık, mala zarar verme, konut dokunulmazlığı ihlal etme: 1
+6136 sayılı kanun'a muhalefet, konut dokunulmazlığını ihlal: 1
+hukuki alacağın tahsili amacıyla silahla tehdit, kasten yaralama, hakaret: 1
+yağma, hürriyeti tahdit: 1
+yaralama, 6136 sayılı yasaya aykırılık: 1
+kişiyi hürriyetinden yoksun kılma, çocuğun kaçırılması ve alıkonulması: 1
+213 sayılı vergi usul kanununa muhalefet, tefecilik yapma: 1
+6136 sayılı yasaya aykırılık, görevi yaptırmamak için direnme: 1
+hizmet nedeni ile güveni kötüye kullanma, tefecilik: 1
+tehdit, tefecilik(yağma): 1
+kasten yaralama, hakaret, 6136 sayılı kanun’a muhalefet: 1
+kasten yaralama, görevi yaptırmamak için direnme, 6136 sayılı kanun’a muhalefet: 1
+beden veya ruh sağlığını bozacak şekilde nitelikli cinsel saldırı, kasten yaralama: 1
+1)uyuşturucu madde ticareti yapma,: 1
+1-resmi belgede sahtecilik: 1
+çocuğun cinsel istismarı, çocuğun kaçırılması ve alıkonulması: 1
+1-sahte fatura düzenleme: 1
+özel belgede sahtecilik, dolandırıcılık: 1
+kamu kurum ve kuruluşları, vb.tüzel kişiliklerin araç olarak kullanılması suretiyle dolandırıcılık, resmi belgede sahtecilik: 1
+kasen yaralama: 1
+kasten yaralama, 6136 sayılı kanuna muhalefet etme: 1
+neticesi sebebiyle ağırlaşmış yaralama, suçluyu kayırma, 6136 sayılı kanuna muhalefet etme: 1
+başkasına ait kimlik veya kimlik bilgilerinin kullanılması, iftira: 1
+kasten öldürme, kasten öldürmeye teşebbüs, tehdit, kişiyi hürriyetinden yoksun kılma, kasten yaralama: 1
+hakaret, görevi yaptırmamak için direnme, 6136 sayılı kanun'a aykırılık: 1
+tehdit, eşe karşı kasten yaralama: 1
+silahla tehdit, yaralama, mala zarar verme,: 1
+kasten yaralama, mala zarar verme, genel güvenliğin kasten tehlikeye sokulması: 1
+kasten öldürme, mala zarar verme, tehdit, ruhsatsız tabanca taşıma: 1
+eşi kasten öldürme: 1
+kasten öldürme, kasten öldürmeye teşebbüs, kasten yaralama, kişiyi hürriyetinden yoksun kılmaya teşebbüs, 6136 sayılı kanuna muhalefet: 1
+kavgada korkutmak amacıyla silah boşaltma, 6136 sayılı yasaya aykırılık: 1
+başkalarına ait kimlik veya kimlik bilgilerini kullanma, görevi yaptırmamak için direnme, 6136 sayılı kanuna muhalefet: 1
+silahla tehdit, yaralama, hakaret, mala zarar verme: 1
+zincirleme nitelikli zimmet (tüm sanıklar hakkında), kamu görevlisinin resmi belgede sahteciliği (sanık ... hakkında): 1
+1163 sayılı kanuna muhalefet, zimmet, görevi kötüye kullanma: 1
+zimmet, resmi belgede sahtecilik: 1
+yağma, rüşvet, resmi belgede sahtecilik, nitelikli dolandırıcılık, görevi kötüye kullanma, suç işlemek amacıyla örgüt kurma ve bu örgüte üye olma, yetkili olmadığı bir iş için yarar sağlama, haksız mal edinme, 6136 sayılı yasaya muhalefet, 2531 sayılı kanuna aykırılık: 1
+kasten yaralama, yalan tanıklık, kişiyi hürriyetinden yoksun kılma: 1
+kasten öldürmeye yardım: 1
+eşe karşı kasten öldürme, kasten öldürme, kasten öldürmeye teşebbüs: 1
+cezaevi idaresine karşı silahlı ayaklanma, 6136 sayılı kanuna muhalefet, patlayıcı madde bulundurmak, faili gayrimuayyen şekilde adam öldürmek, kasten yaralama: 1
+beden bakımından kendisini savunamayacak durumda bulunan kişiyi bir suçu gizlemek ve delillerini ortadan kaldırmak amacıyla öldürme, nitelikli yağma: 1
+çocuğu öldürme, kasten öldürme, 6136 sayılı yasaya aykırılık: 1
+kasten öldürme, kasten öldürmeye yardım, hakaret: 1
+tasarlayarak öldürme, devletin birliğini ve ülke bütünlüğünü bozmak: 1
+silahla tehdit, suç delillerini bildirmeme: 1
+tehdit, hakaret, yaralama, silahla tehdit: 1
+kamu malına zarar verme, silahla tehdit,: 1
+kasten öldürme ve bu suça azmettirme, 6136 sayılı kanuna aykırılık: 1
+olası kastla nitelikli öldürme, tehdit, 6136 sayılı kanuna muhalefet.: 1
+kasten öldürme, silahla tehdit: 1
+kasten öldürme, kasten yaralama, 6136 sayılı yasaya aykırılık: 1
+kasten öldürme, suç delillerini yok etme gizleme: 1
+kasten öldürmeye teşebbüs, kasten öldürmeye teşebbüse azmettirme: 1
+silahla kasten yaralama: 1
+çocuğu tasarlayarak ve kan gütme saiki ile öldürme: 1
+kardeşe karşı kasten öldürme, kasten öldürmeye yardım: 1
+tasarlayarak öldürmeye teşebbüs ve bu suça yardım, tehdit, 6136 sayılı kanuna muhalefet.: 1
+nitelikli kasten öldürmek, nitelikli gasp, bu suçlara yardım etmek, banka ve kredi kartlarının kötüye kullanılması.: 1
+görevi yaptırmamak için direnme, mala zarar verme: 1
+mala zarar verme, hakaret , tehdit: 1
+herkesin girebileceği bir yerde bırakılmakla birlikte kilitlenmek suretiyle hırsızlık, mala zarar verme: 1
+hırsızlık, 6136 sayılı kanun'a aykırılık: 1
+mala zarar verme, hırsızlık, işyeri dokunulmazlığının ihlali: 1
+hırsızlık konut dokunulmazlığının ihlali: 1
+nitelikli hırsızlık, iş yeri dokunulmazlığını ihlal etme, mala zarar verme: 1
+suç eşyasının satın alınması veya kabul edilmesi, nitelikli hırsızlık, iş yeri dokunulmazlığını ihlal, mala zarar verme: 1
+kasten öldürmeye teşebbüs, kardeşe karşı kasten öldürmeye teşebbüs: 1
+kasten öldürme, kasten eşini öldürmeye teşebbüs: 1
+nitelikli öldürme, kasten öldürme, nitelikli öldürmeye teşebbüs, kasten öldürmeye teşebbüs: 1
+kasten yaralama, olası kastla yaralama, 6136 sayılı yasaya muhalefet: 1
+hırsızlık, kamu malına zarar verme, mala zarar verme: 1
+kamu malına zarar verme, kamu görevlisine hakaret, kamu görevlisine direnme, kasten yaralama: 1
+siyasi partiler veya meslek kuruluşlarının kullanımında olan bina, tesis veya eşyaya zarar verme, mala zarar verme, kamu malına zarar verme: 1
+kamu malına zarar verme, görevli memura direnme, hakaret: 1
+tüm sanıklar hakkında ihaleye fesat karıştırma, sanık ... hakkında zimmet: 1
+kişiyi hürriyetinden yoksun kılma, cinsel taciz, tehdit, hakaret: 1
+5464 sayılı yasaya muhalefet: 1
+kamu malına zarar verme, hakaret, kasten yarlama: 1
+mala zarar verme, kişilerin huzur ve sükununu bozma: 1
+yağma (tehdit, kasten yaralama), mala zarar verme: 1
+nitelikli hırsızlık, mala zarar verme, 6136 sayılı yasaya muhalefet: 1
+nitelikli hırsızlık, i̇ş yeri dokunulmazlığını ihlal etme, mala zarar verme: 1
+hırsızlık, kullanmak amacıyla uyuşturucu bulundurma: 1
+kasten yaralama, 6136 sayılı yasaya aykırılık, genel güvenliği kasten tehlikeye sokacak şekilde silahla ateş etme: 1
+kasten yaralama, kişiyi hürriyetinden yoksun kılma, eşya müsaderesi: 1
+kişiyi hürriyetinden yoksun kılma, silahla tehdit, 6136 sayılı yasaya aykırılık ve işyeri dokunulmazlığının ihlali: 1
+parada sahteclilik: 1
+edimin ifasına fesat karıştırma, 5015 sayılı kanuna muhalefet: 1
+zincirleme şekilde nitelikli zimmet: 1
+zimmet, icrai ve ihmali davranışlarla görevi kötüye kullanma, hizmet nedeniyle güveni kötüye kullanma: 1
+konut dokunulmazlığını ihlal, nitelikli hırsızlık: 1
+banka veya kredi kartlarının kötüye kullanılması, resmi belgede sahtecilik: 1
+6136 sayılı yasaya aykırılık, hakaret, kasten yaralama: 1
+kasten yaralama, hakaret, 6136 sayılı kanun'a muhalefet: 1
+birden fazla kişi ile birlikte tehdit, tehdit: 1
+tehdit, görevi yaptırmamak için direnme, hakaret: 1
+hakaret, görevi yaptırmamak için direnme, trafik güvenliğini tehlikeye sokma: 1
+birden fazla kişi ile birlikte silahla tehdit, kasten yaralama: 1
+kamu görevlisine karşı görevinden dolayı hakaret, kasten yaralama, basit tehdit: 1
+silahla tehdit, kasten yaralamaya teşebbüs: 1
+silahla tehdit, kasten yaralama, genel güvenliğin kasten tehlikeye sokulması: 1
+mala zarar verme, konut dokunulmazlığının ihlali: 1
+hakaret, kamu malına zarar verme, tehdit: 1
+birden fazla kişi ile tehdit, kasten yaralama, hakaret: 1
+4733 sayılı kanuna muhalefet, iftira: 1
+silahla tehdit, silahla yaralama, 6136 sayılı yasaya muhalefet: 1
+mala zarar verme, hakaret, sair tehdit: 1
+trafik güvenliğini tehlikeye sokma, görevi yaptırmamak için direnme: 1
+anayasal düzeni ortadan kaldırmaya teşebüs etme, silahlı terör örgütüne üye olma: 1
+nitelikli hırsızlığa teşebbüs, konut dokunulmazlığını ihlal, mala zarar verme: 1
+kamu malına zarar verme, kasten yaralama, hakaret, kamu görevlisine karşı hakaret, tehdit: 1
+kasten yaralama, kasten öldürmeye teşebbüs: 1
+hukuki bir alacağı tahsil amacıyla kasten yaralama: 1
+görevi yaptırmamak için direnme, görevli memura hakaret, kasten yaralama: 1
+basit kasten yaralama, hakaret: 1
+birden fazla kişi ile birlikte tehdit, hakaret, yaralama: 1
+birden fazla kişi ile birlikte tehdit, hakaret: 1
+birlikte ve silahla tehdit: 1
+kişilerin huzur ve sükununu bozma, hakaret: 1
+hakaret, yaralamaya teşebbüs: 1
+tehdit, hakaret ve kasten yaralama: 1
+yağma, hırsızlık, konut dokunulmazlığını ihlal: 1
+nitelikli hırsızlığa teşebbüs, konut dokunulmazlığının ihlali: 1
+silahla birden fazla kişi ile birlikte tehdit, silahla tehdit: 1
+hakaret, aile hukukundan kaynaklanan yükümlülüğün ihlali: 1
+kamu görevlisine karşı görevinden dolayı hakaret: 1
+tehdit, kamu görevlisine karşı görevinden dolayı hakaret: 1
+silahla tehdit, kasten yaralama, 6136 sayılı kanun'a muhalefet: 1
+bir kimseyi fuhuşa teşvik etmek veya yaptırmak veya aracılık ettirmek: 1
+nitelikli yağma suçuna teşebbüs, hırsızlık suçuna teşebbüs: 1
+yağma, kasten yaralama, hakaret, mala zarar verme: 1
+1)uyuşturucu madde ithal etme (sanık ... hakkında): 1
+resmi belgenin düzenlenmesinde yalan beyan, trafik güvenliğini tehlikeye sokma: 1
+kasten insan öldürmeye teşebbüs: 1
+sahte fatura düzenleme ve sahte fatura kullanma: 1
+nitelikli hırsızlık, iş yeri dokunulmazlığının ihlali, mala zarar verme: 1
+cinsel saldırı, hakaret, kasten yaralama: 1
+ruhsatsız ateşli silahlarla mermileri satın alma veya taşıma veya bulundurma: 1
+çocuğun nitelikli cinsel istismarı, kasten yaralama: 1
+çocuğun cinsel istismarı (mağdureler ...,...ile ...'ya yönelik): 1
+dolandırıcılık, kasten yaralama: 1
+hizmet nedeniyle güveni kötüye kullanma, suç eşyasının satın alınması veya kabul edilmesi: 1
+nitelikli dolandırıcılık, resmi belgede sahtecilik,: 1
+1- kullanmak için uyuşturucu madde bulundurma: 1
+1)uyuşturucu madde ticareti yapma (sanıklar hakkında): 1
+1- uyuşturucu madde ticareti yapma 2- kenevir ekme: 1
+1-uyuşturucu madde ithal etme: 1
+çocuğunu öldürmeye teşebbüs: 1
+anneyi kasten öldürmeye teşebbüs: 1
+kasten öldürmeye teşebbüse yardım: 1
+bina içinde muhafaza altına alınmış olan eşya hakkında hırsızlık, konut dokunulmazlığını ihlal: 1
+hırsızlık, konut dokunulmazlığının ihlali ve mala zarar verme: 1
+yaralama, kamu malına zarar verme: 1
+başkasını intihara yönlendirme: 1
+başkalarına ait kimlik veya kimlik bilgilerini kullanmak: 1
+başkalarına ait kimlik veya kimlik bilgilerini kullanma, özel belgede sahtecilik: 1
+kasten yaralama, başkalarına ait kimlik veya kimlik bilgilerinin kullanılması: 1
+hırsızlık, görevli memura hakaret, görevini yaptırmamak için memura direnme: 1
+nitelikli hırsızlık, işyeri dokunulmazlığını ihlal etme, mala zarar verme: 1
+taksirle bir kişinin ölümüne neden olma: 1
+kişiyi hürriyeti yoksun kılma, tehdit: 1
+i̇ftira, tehdit, trafik güvenliğini tehlikeye sokma: 1
+başkasına ait kimlik veya kimlik bilgilerinin kullanılması, parada sahtecilik, resmi belgede sahtecilik: 1
+i̇haleye fesat karıştırma (iki kez): 1
+i̇ftira, görevli memura hakaret: 1
+genel güvenliği tehlikeye sokacak şekilde silahla ateş açma, 6136 sayılı yasaya aykırılık: 1
+kişiyi hürriyetinden yoksun kılma, mala zarar verme, tehdit: 1
+kişiyi hürriyetinden yoksun kılma, çocukların cinsel istismarı: 1
+kişiyi hürriyetinden yoksun kılma, reşit olmayanla cinsel ilişki, çocuğun kaçırılması ve alıkonulması: 1
+denetim görevini ihmal ederek zimmete neden olma: 1
+basit yaralama, hakaret: 1
+hırsızlık, hakaret: 1
+kasten yaralama, hayvanın tehlike yaratabilecek şekilde serbest bırakılması: 1
+hırsızlık, başkalarına ait kimlik veya bilgilerini kullanma: 1
+i̇nfaz kurumuna yasak eşya sokmak: 1
+kamu malına zarar verme, hükümlünün kaçması: 1
+kasten yaralama, aile hukukundan kaynaklanan yükümlülüğün ihlali: 1
+hırsızlık, hakkı olmayan yere tecavüz: 1
+2873 sayılı kanuna muhalefet: 1
+5607 sayılı kanuna muhalefet, fuhuş için aracılık etme, yer ve imkan sağlama: 1
+saklanması ve ibrazı gereken belge üzerinde tahrifat: 1
+çocuğun cinsel istismarı (suça sürüklenen çocuk), çocuğun nitelikli cinsel istismarı (sanık): 1
+i̇mar kirliliğine neden olma, mühür bozma, kamu kurumu faaliyetini engelleme: 1
+silahla yaralama, tehdit, hakaret: 1
+hakaret, cinsel taciz: 1
+görevi yaptırmamak için direnme, nitelikli mala zarar verme, kasten yaralama: 1
+yağma, yağmaya teşebbüs: 1
+1) uyuşturucu madde ticareti yapma ( sanıklar hakkında): 1
+sahte ve muhteviyatı itibariyle yanıltıcı belge düzenlemek: 1
+konut dokunulmazlığını ihlal etme, tehdit: 1
+213 sayılı vergi usul kanununa aykırılık: 1
+hakaret, cinsel taciz, tehdit: 1
+i̇mar kirliliğine neden olma, mühür bozma: 1
+silahla tehdit, hakaret, konut dokunulmazlığını ihlal, kasten yaralama: 1
+i̇haleye fesat karıştırma ve bu suça teşebbüs, rüşvet alma, rüşvet verme ve bu suça yardım etme: 1
+rüşvet alma ve rüşvet verme, fuhuş, kişiyi hürriyetinden yoksun kılma, nitelikli dolandırıcılık, resmi belgenin düzenlenmesinde yalan beyan, suç işlemek için örgüt kurma, bu örgüte üye olma ve yardım etme, insan ticareti: 1
+i̇ftira, yayın yolu ile hakaret: 1
+i̇ftira, kişisel verileri, hukuka aykırı olarak ele geçirmek veya yaymak, sesli yazılı veya görüntülü bir ileti ile hakaret: 1
+suç delillerini yok etme, gizleme veya değiştirme, kasten yaralama, 6136 sayılı yasaya aykırılık: 1
+i̇hmâli davranışla görevi kötüye kullanma: 1
+i̇cbar suretiyle irtikap (altı kez), icbar suretiyle irtikap suçuna teşebbüs (iki kez): 1
+hırsızlık, iftira: 1
+kasten yaralama, silahla tehdit, 6136 sayılı yasaya aykırılık: 1
+görevi yaptırmamak için direnme, kamu malına zarar verme, trafik güvenliğini tehlikeye sokma: 1
+kamu malına zarar verme, hakaret, görevi yaptırmamak için direnme: 1
+nitelikli hırsızlık, nitelikli hırsızlığa teşebbüs: 1
+kişiyi hürriyetinden yoksun kılma, tefecilik: 1
+nitelikli hırsızlık ve mala zarar verme: 1
+suç eşyasının satın alınması ve kabul edilmesi: 1
+görevi yaptırmamak için direnme, hakaret, tehdit, kasten yaralama: 1
+görevi yaptırmamak için direnme, kamu malına zarar verme, hakaret: 1
+çocuğun nitelikli cinsel istismarı, şantaj: 1
+cinsel taciz (mağdurele...le...'a yönelik): 1
+5996 sayılı kanuna muhalefet: 1
+5809 sayılı kanununa muhalefet: 1
+nitelikli öldürme, yangın çıkarma, hırsızlık: 1
+yakın akrabayı öldürmeye teşebbüs: 1
+kasten öldürmeye teşebbüs etmek, kasten yaralamak: 1
+tasarlayarak öldürme, kasten nitelikli öldürme: 1
+kasten öldürme, kasten öldürmeye teşebbüs, kasten yaralama, hakaret: 1
+kasten öldürmek, kasten öldürmeye teşebbüs etmek, kasten yaralamak: 1
+eşi kasten öldürme, nitelikli kişiyi hürriyetinden yoksun kılma: 1
+kasten öldürmeye teşebbüs ve bu suça yardım.: 1
+kasten öldürmek, kasten öldürmeye teşebbüs, kamu malına zarar verme, kamu görevlisine hakaret: 1
+mala zarar verme, yaralama, hakaret: 1
+bir suçu gizlemek veya başka bir suçun delillerini gizlemek ya da yakalanmamak amacıyla öldürme: 1
+yerine getirilen kamu görevi nedeniyle öldürmeye teşebbüs: 1
+kasten öldürmenin ihmali davranışla işlenmesi, uyuşturucu madde ticareti yapma veya sağlama, kullanmak için uyuşturucu madde satın almak ve bulundurmak: 1
+olası kastla: 1
+kamu malına zarar verme, trafik güvenliğini tehlikeye sokmak: 1
+kişilerin malları üzerinde usulsüz tasarruf (dört kez): 1
+müteselsilen ihtilasen zimmet: 1
+görevi ihmal: 1
+genel güvenliği kasten tehlikeye sokacak şekilde silahla ateş etme, 6136 sayılı yasaya aykırılık ve tehdit: 1
+hırsızlık, konut dokunulmazlığını ihlal, mala zarar verme, tehdit: 1
+kaybolmuş hata sonucu ele geçmiş eşya üzerinde tasarruf: 1
+kasten yaralama, kamu malına zarar verme: 1
+hırsızlık, özel belgede sahtecilik: 1
+görevi yaptırmamak için direnme, mala zarar verme, yaralama: 1
+kasten yaralma: 1
+kasten yaralama, cinsel taciz,6136 sayılı yasaya muhalefet: 1
+kasten öldürmeye teşebbüs, kasten yaralamaya teşebbüs, suç örgütlerinin isimlerini kullanarak silahla tehdit, mala zarar verme, tefecilik, çıkar amaçlı suç örgütüne bilerek yardım etme: 1
+nitelikli hırsızlığa teşebbüs, konut dokunulmazlığını ihlali, mala zarar verme: 1
+hakaret, tehdit, görevi yaptırmamak için direnme: 1
+göçmen kaçakçılığı, yaralama: 1
+nitelikli tehdit, yağma, tefecilik: 1
+silahlı terör örgütüne üye olma, silahlı terör örgütü: 1
+silahlı terör örgütüne üye olma, 2911 sayılı kanununa: 1
+silahlı terör örgütü propagandası yapmak: 1
+i̇ş yeri dokunulmazlığının ihlali, mala zarar verme: 1
+tehdit, hakaret, 6136 sayılı kanuna muhalefet: 1
+görevi yaptırmamak için direnme, tehdit, trafik güvenliğini tehlikeye sokma: 1
+hırsızlık, kamu malına zarar verme, tehdit: 1
+banka veya kredi kartlarının kötüye kullanılmas: 1
+tehdit, hakaret , kasten yaralama: 1
+silahla tehdit, tehdit, kasten yaralama, hakaret, 6136 sayılı yasaya muhalefet: 1
+tehdit, yaralama, işyeri dokunulmazlığının ihlali: 1
+silahlı terör örgütüne üye olma, resmi belgede sahtecilik: 1
+tehdit, 6136 sk’na aykırılık ve kasten yaralama: 1
+nitelikli hırsızlık, işyeri dokunulmazlığının ihlali, mala zarar verme: 1
+nitelikli hırsızlık, mala zarar verme, iş yeri dokunulmazlığını bozma: 1
+sahte fatura düzenlemek, sahte fatura kullanmak: 1
+silahla tehdit, kasten yaralama, 6136 sayılı kanuna aykırılık: 1
+silahla tehdit, görevi yaptırmamak için direnme, hakaret, yaralama: 1
+silahla tehdit, hakaret, 6136 sayılı kanuna muhalefet: 1
+resmi belgede sahtecilik, 5607 sayılı yasaya muhalefet: 1
+tehdit, hakaret, iş yeri dokunulmazlığının ihlali: 1
+tehdit, hakaret, yaralama, 6136 sayılı yasaya muhalefet: 1
+tehdit, elektronik haberleşme kanununa aykırılık: 1
+silahla tehdit, iş yeri dokunulmazlığını ihlal, yaralama: 1
+anayasal düzeni ortadan kaldırmaya teşebbüs etme, silahlı terör örgütüne üye olma: 1
+hırsızlık, işyeri dokunulmazlığını ihlal etme, mala zarar verme: 1
+birden fazla kişi tarafından birlikte tehdit, hakaret, kasten yaralama: 1
+alacağı tahsil etmek amacıyla tehdit: 1
+nitelikli hırsızlık, işyeri dokunulmazlığını ihlal, mala zarar verme: 1
+birden fazla kişi tarafından birlikte tehdit ve hakaret: 1
+hırsızlık, iş yeri dokunulmazlığını ihlal etme, mala zarar verme: 1
+nitelikli yağma, kasten yaralama, mala zarar verme, silahla tehdit: 1
+bir hukuki ilişkiye dayanan alacağı tahsil amacıyla hırsızlık: 1
+i̇zin alınmadan akaryakıt haricinde kalan petrol ürünlerinden akaryatık üretmek, akaryakıt yerine ikmal etme, satışa arzetme, satma, bulundurma, satın alma, taşıma, saklama: 1
+hırsızlık, konut dokunulmazlığını ihlal etme, mala zarar verme: 1
+çocuğun nitelikli cinsel istismarı (mağdureler ...ile ...'ya yönelik): 1
+cinsel saldırı, (mağdure bilge'ye yönelik), beden veya ruh sağlığını bozacak şekilde çocuğun cinsel istismarı (mağdure lale'ye yönelik): 1
+çocuğun cinsel istismarı (sanık ...), çocuğun cinsel istismarına yardım (sanık ...): 1
+çocuğun nitelikli cinsel istismarına teşebbüs, çocuğun kaçırılması ve alıkonulması: 1
+konut dokunulmazlığının ihlali,hırsızlık: 1
+hırsızlık, ibadethanelere ve mezarlıklara zarar verme: 1
+kamu kurum ve kuruluşlarının zararına dolandırıcılık, özel belgede sahtecilik: 1
+kamu kurum ve kuruluşları, vb.tüzel kişiliklerin araç olarak kullanılması suretiyle dolandırıcılığa teşebbüs, resmi belgede sahtecilik: 1
+2531 sayılı kanuna muhalefet: 1
+bilişim sistemleri banka veya kredi kurumlarının araç olarak kullanılması suretiyle dolandırıcılık ve resmi belgede sahtecilik: 1
+bilişim sistemleri, banka veya kredi kuruluşlarının araç olarak kullanılması suretiyle dolandırıcılık, resmi belgede sahtecilik: 1
+görevi kötüye kullanma, hizmet nedeniyle güveni kötüye kullanma: 1
+hizmet nedeniyle güveni kötüye kullanma, resmi belgede sahtecilik: 1
+konut dokunulmazlığını ihlal, güveni kötüye kullanma: 1
+dolandırıcılık, iftira: 1
+konut dokunulmazlığını ihlal etme, hizmet nedeniyle güveni kötüye kullanma: 1
+silahlı terör örgütüne üye olma, resmi belgede: 1
+silahlı terör örgütüne üye olma, örgüt üyesi olmaksızın: 1
+devletin askerî veya emniyet teşkilatını alenen aşağılama: 1
+1- uyuşturucu madde ticareti yapma (sanıklar ....yönünden): 1
+a) uyuşturucu madde ticareti yapma b) kullanmak için uyuşturucu madde bulundurma: 1
+kasten öldürmeye teşebbüs etmek: 1
+tasarlayarak öldürmeye teşebbüse azmettirme: 1
+kasten yaralamaya teşebbüs: 1
+tehdit, hakaret, iftira: 1
+kasten öldürmeye teşebbüs suçuna azmettirme, yağma: 1
+nitelikli yağma, iftira: 1
+mala zarar verme, kasten yaralama, hakaret: 1
+rüşvet alma ve rüşvet verme, cinsel saldırı, suç işlemek amacıyla örgüt kurma, suç işlemek amacıyla kurulan örgüte bilerek ve isteyerek yardım etme, bir kimseyi fuhuşa teşvik etme, şantaj: 1
+i̇haleye fesat karıştırma (sanıklar ...., ...., .... ve .... hakkında), edimin ifasına fesat karıştırma (tüm sanıklar hakkında), resmi belgede sahtecilik (tüm sanıklar hakkında): 1
+zimmet (sanıklar ..., ... ve ... hakkında), 1163 sayılı yasaya aykırılık (tüm sanıklar hakkında), nitelikli dolandırıcılık (sanık ... hakkında): 1
+hakkı olmayan yere tecavüz,: 1
+7201 sayılı tebligat kanunu'na muhalefet, görevi kötüye kullanmak: 1
+görevi kötüye kullanma, iş ve çalışma hürriyetinin ihlali: 1
+hakkı olmayan yere tecavüz, iftira, özel belgede sahtecilik: 1
+hırsızlık (yağma suçundan dönüşen), tehdit: 1
+başkasına ait kimlik veya kimlik bilgilerinin kullanılması, trafik güvenliğini tehlikeye sokmak: 1
+i̇şyeri dokunulmazlığını ihlal, hırsızlık: 1
+kasten yaralama, görevli memura direnme: 1
+nitelikli kamu malına zarar verme: 1
+hırsızlık, konut dokunulmazlığını bozma, mala zarar verme, silahla tehdit: 1
+kamul malına zarar verme: 1
+kamu malına zarar verme, kamu görevlisine hakaret: 1
+kasten yaralama, cinsel taciz, kişiyi hürriyetinden yoksun kılma: 1
+kasten yaralama, tehdit, 6136 sayılı kanun'a muhalefet: 1
+kasten yaralama, basit kasten yaralama: 1
+kişiyi hürriyetinden yoksun kılma, cinsel saldırı: 1
+çocukların cinsel istismarı, tehdit, yaralama: 1
+şantaj, verileri hukuka aykırı olarak ele geçirme: 1
+yağma, silahla tehdit, dolandırıcılık: 1
+tehdit, 6136 sayılı kanun'a aykırılık, hakaret: 1
+şantaj, sistemi engelleme, bozma, verileri yok etme veya değiştirme: 1
+2911 sayılı kanuna muhalefet: 1
+devletin askeri veya emniyet teşkilatını alenen aşağılama: 1
+hırsızlık, konut dokunulmazlığını ihlal, kasten yaralama: 1
+suç eşyasının satın alınması veya kabul edilmesi, bina veya eklentileri içinde hırsızlık, iş yeri dokunulmazlığını bozma, mala zarar verme, suç işlemek maksadıyla örgüt kurma: 1
+hırsızlık, konut dokunulmazlığını bozma, başkasına ait kimlik veya kimlik bilgilerinin kullanılması: 1
+hırsızlık, taksirle yangına neden olma: 1
+6136 sayılı kanun'a aykırılık: 1
+kendiliğinden hak alma (ihkakı hak): 1
+hırsızlık, i̇şyeri dokunulmazlığını ihlal: 1
+alacağı tahsil amacıyla birden fazla kişi tarafından birlikte tehdit: 1
+yağma, kişiyi hürriyetinden yoksun kılma, kasten yaralama, hakaret: 1
+nitelikli hırsızlığa teşebbbüs: 1
+nitelikli yağma, tehdit: 1
+silahla tehdit, mala zarar verme, hakaret: 1
+sahte fatura düzenlemek, defter ve belge gizlemek: 1
+i̇ş ve çalışma hürriyetinin ihlali, hakaret, tehdit: 1
+birden fazla kişiyle birlikte tehdit, yaralama: 1
+silahla tehdit, yaralama, 6136 sayılı kanuna aykırılık: 1
+birden fazla kişiyle birlikte silahla tehdit: 1
+görevi kötüye kullanma, basit yaralama: 1
+kasten yaralama, kamu malına zarar verme, görevi yaptırmamak için direnme: 1
+görevi kötüye kullanmak, hakaret: 1
+nitelikli olası kastla öldürme, olası kastla öldürme: 1
+kasten yaralama, babasını kasten öldürme, 6136 sayılı kanuna muhalefet: 1
+hukuki alacağın tahsili amacıyla silahla tehdit: 1
+nitelikli yağmaya teşebbüs, cinsel saldırı: 1
+nitelikli hırsızlık, yağmaya teşebbüs, iftira: 1
+nitelikli yağma, 6136 sayılı kanuna aykırılık: 1
+kişiyi hürriyetinden yoksun kılma, hırsızlık: 1
+suç işlemek amacıyla örgüt kurma (sanıklar ..., ..., ... ve ... haklarında), suç işlemek amacıyla kurulan örgüte üye olma (sanıklar ..., ..., ... ve ... haklarında), ihaleye fesat karıştırma (sanık ... hakkında 3 kez, sanıklar ..., ..., ...., ..., ..., ... ve ... haklarında 2'şer kez, sanıklar ...,..., ..., ...., ..., ...,..., ..., ..., ..., ..., ...,..., ..., ..., ..., ... ve ... haklarında 1'er kez), edimin ifasına fesat karıştırma (sanıklar ... ve ... haklarında 2'şer kez), rüşvetverme (sanıklar ..., ..., ... ve ... haklarında 2'şer kez), rüşvet alma (sanıklar ... ve ... haklarında), icbar suretiyle irtikap (sanıklar ..., ... ve ... haklarında): 1
+genel güvenliği kasten tehlikeye sokma: 1
+kasten yaralama, görevi kötüye kullanma: 1
+gece vakti nitelikli hırsızlık: 1
+karşılıksız yararlanma, konut dokunulmazlığını bozma: 1
+kasten yaralama, silahla tehdit, 6136 sayılı kanun'a aykırılık: 1
+i̇şyeri dokunulmazlığını ihlal etme, mala zarar verme, basit yaralama: 1
+tehdit, kasten yaralama ve mala zarar verme: 1
+tehdit,6136 sayılı kanuna aykırılık: 1
+kaçmaya imkan sağlama: 1
+tehdit, kasten yaralamaya teşebbüs, 6136 sayılı kanuna muhalefet: 1
+şantaj, görevi kötüye kullanma: 1
+nitelikli hırsızlık, iş yeri dokunulmazlığını bozma, mala zarar verme: 1
+nitelikli hırsızlık, konut dokunulmazlığını ihlali: 1
+hukuki alacağın tahsili amacıyla silahla tehdit, 6136 sayılı kanuna muhalefet: 1
+alacağın tahsili amacıyla tehdit, kişiyi hürriyetinden yoksun kılma: 1
+nitelikli hırsızlığa teşebbüs, iş yeri dokunulmazlığını bozmaya teşebbüs: 1
+görevi yaptırmamak için direnme, 6136 sayılı yasaya aykırılık: 1
+silahla tehdit, kamu görevlisine karşı hakaret, görevi yaptırmamak için direnme: 1
+hakaret, yaralama, tehdit: 1
+silahla tehdit, hakaret, kasten yaralama ve 6136 sayılı kanuna muhalefet: 1
+nitelikli hırsızlık, suç eşyasının satın alınması, konut dokunulmazlığının ihlali: 1
+parada sahtecilik, resmi belgede sahtecilik, suç işlemek amacıyla örgüt kurma: 1
+4733 ve 5607 sayılı yasalara muhalefet: 1
+organ ticareti yapma: 1
+beden veya ruh sağlığını bozacak şekilde cinsel saldırı (mağdureler r... ile ...ye yönelik): 1
+nitelikli cinsel saldırıya teşebbüs, kişiyi hürriyetinden yoksun kılma: 1
+beden veya ruh sağlığını bozacak şekilde nitelikli cinsel saldırı, tehdit, şantaj: 1
+beden ve ruh sağlığını bozacak şekilde çocuğun cinsel istismarı: 1
+devlet sırlarından yararlanma, devlet hizmetlerinde sadakatsizlik: 1
+kasten yaralama, hakaret, hırsızlık: 1
+halk arasında korku ve panik yaratmak amacıyla tehdit: 1
+biden fazla kişi tarafından birlikte tehdit: 1
+görevli memura mukavemet, yaralama: 1
+5015 sayılı kanuna muhalefet, suç işlemek amacıyla örgüt kurma, kurulan örgüte üye olma, örgüte yardım etme, mühür bozma, görevi kötüye kullanma, soruşturmanın gizliliğini ihlal etme: 1
+silahla tehdit, tehdit, kasten yaralama: 1
+birden fazla kişiyle birlikte tehdit, mala zarar verme: 1
+birden fazla kişi ile tehdit, hakaret: 1
+birden fazla kişi ile birlikte tehdit, hakaret, kasten yaralama: 1
+nitelikli hırsızlığa teşebbüs, işyeri dokunulmazlığını bozma: 1
+kişiyi hürriyetinden yoksun kılma, özel hayatın gizliliğini ihlal: 1
+kamu malına zarar verme, mala zarar verme, hakaret, görevi yaptırmamak için direnme, korku kaygı veya panik yaratacak tarzda silahla ateş etme: 1
+nitelikli hırsızlık, mala zarar verme, suç eşyasının satın alınması veya kabul edilmesi: 1
+i̇ş yeri dokunulmazlığını ihlal, mala zarar verme: 1
+i̇ltimas suretiyle yargı görevi yapanı etkileme, bilirkişiyi veya tanığı etkilemeye teşebbüs: 1
+677 sayılı kanuna aykırılık: 1
+kamu kurum ve kuruluşlarının zararına dolandırıcılık, kamu görevlisinin resmi belgede sahteciliği: 1
+nitelikli dolandırıcılık (değişen suç vasfı nedeniyle resmi belgenin düzenlenmesinde yalan beyan): 1
+silahlı terör örgütü yönetme: 1
+kullanmak için uyuşturucu madde bulundarma: 1
+1-) kişiyi hürriyetinden yoksun kılma: 1
+nitelikli öldürme, nitelikli yağma: 1
+nitelikli hırsızlık, konut dokunulmazlığnı bozma: 1
+alacağını tahsil amacıyla yağmadan dönüşen birden fazla kişiyle silahla tehdit, ruhsatsız tabanca bulundurma: 1
+nitelikli olarak konut dokunulmazlığını ihlal etme, mala zarar verme: 1
+nitelikli dolandırıcılık ve bu suça yardım etme, hizmet nedeniyle güveni kötüye kullanma, özel belgede sahtecilik, icrai davranışla görevi kötüye kullanma, ihmali davranışla görevi kötüye kullanma, denetim görevinin ihmali, şirket veya kooperatifler hakkında yanlış bilgi, 1163 sayılı yasaya muhalefet: 1
+değişen suç vasfı nedeniyle hırsızlık: 1
+kamu malına zarar verme, yaralama: 1
+i̇ftira, tehdit, kamu görevlisine görevinden dolayı hakaret, görevi yaptırmamak için direnme: 1
+hakkı olmayan yere tecavüz ve tehdit: 1
+sesli yazılı veya görüntülü bir ileti ile hakaret, tehdit, tefecilik yapmak: 1
+kamu görevlisinin belgede sahteciliği, görevi kötüye kullanma: 1
+i̇nfaz kurumuna veya tutukevine yasak eşya sokma, görevi yaptırmamak için direnme: 1
+hakaret, 6136 sayılı yasaya aykırılık, kasten yaralama: 1
+mala zarar verme, cinsel taciz: 1
+kasten yalama: 1
+kasten yaralama, suç üstlenme: 1
+kasten yaralama, hakaret, kasten yaralamaya teşebbüs: 1
+müstehcenlik, şantaj, özel hayatın gizliliğini ihlal: 1
+mala zarar verme, hakaret, tehdit: 1
+tehdit, konut dokunulmazlığını ihlal etme: 1
+konut dokunulmazlığının ihlali, hakaret: 1
+kişilerin huzur ve sükununu bozma, tehdit: 1
+tehdit, özel hayatın gizliliğini ihlal: 1
+kasten öldürmeye teşebbüs, 6136 sayılı kanun'a muhalefet: 1
+tehdit, kasten yaralama, mala zarar verme: 1
+nitelikli yağma, silahla yaralama: 1
+banka veya kredi kartlarının kötüye kullanılması, hırsızlık: 1
+resmi belgede sahtecilik, başkalarına ait kimlik veya kimlik bilgilerini kullanma: 1
+sarkıntılık suretiyle cinsel saldırı: 1
+kasten yaralama, mala zarar verme, tehdit: 1
+kamu malına zarar verme, kasten yaralama, 6136 sayılı kanuna muhalefet: 1
+birden fazla kişi ile tehdit, tehdit: 1
+tehdit, konut dokunulmazlığının ihlali, kasten yaralama, hakaret: 1
+nitelikli hırsızlık, suç eşyasının satın alınması veya kabul edilmesi, konut dokunulmazlığını ihlal: 1
+nitelikli hırsızlık, dolandırıcılık: 1
+kardeşini öldürme: 1
+yağma, mala zarar verme: 1
+konut dokunulmazlığını i̇hlal: 1
+kamuya ait veya özel suların mecrasına değiştirme: 1
+terör örgütü propagandası yapmak: 1
+çocuğun cinsel istismarı (mağdurlar ...,......a yönelik), hırsızlık(mağdurlar ...,...a yönelik): 1
+fuhuş (mağdureler .....,.....,..... 'e yönelik): 1
+nitelikli cinsel saldırı, özel hayatın gizliliğini ihlal: 1
+kasten öldürmeye teşebbüs etmek, kasten yaralamak, 6136 sayılı kanuna muhalefet etmek: 1
+cinsel taciz, hakaret, kasten yaralama: 1
+uyuşturucu madde ticareti yapma(değişen suç vasfına göre): 1
+bozulmuş veya değiştirilmiş gıda ticareti yapma: 1
+kasten yaralama, 6136 sayılı kanuna aykırılık, tehdit, hakaret, mala zarar verme: 1
+basit yaralama, basit yaralamaya teşebbüs: 1
+kasten yaralama, kumar oynanması için yer temini: 1
+kasten .yaralama: 1
+basit yaralama, iş yeri dokunulmazlığının ihlali: 1
+kasten yaralama, yivli ve yivsiz silahlarla bıçak ve diğer aletleri sırf saldırıda kullanmak amacıyla taşıma: 1
+kasten öldürme, suç delillerini gizleme: 1
+kasten öldürme, 6136 sayılı kanunun ihlali: 1
+birden fazla kişi tarafından birlikte yağma, nitelikli kasten yaralama: 1
+birden fazla kişi tarafından birlikte yağmaya teşebbüs: 1
+muhkem eşyayı kırarak hırsızlık: 1
+birden fazla kişi ile birlikte yağma: 1
+tahsis gereği açıkta bırakılmış eşya hakkında hırsızlık: 1
+kişiyi hürriyetinden yoksun kılma, hakaret, tehdit, kasten yaralama: 1
+genel güvenliğin kasten tehlikeye sokacak şekilde silahla ateş etme: 1
+tehdit, kamu görevlisine görevi nedeniyle hakaret: 1
+kişinin kendisini tanınmayacak bir hale koyması suretiyle, silahla, birlikte tehdit: 1
+silahlı terör örgütüne yardım etme, 6136 sayılı kanuna: 1
+nitelikli yağma, mala zarar verme: 1
+basit yaralama, hakaret, tehdit, basit yaralamaya teşebbüs: 1
+kasten yaralama, görevini yaptırmamak için direnme: 1
+tehdit, şantaj, konut dokunulmazlığının ihlali, özel hayatın gizliliğini ihlal: 1
+i̇ş ve çalışma hürriyetinin ihlali, kasten yaralama, hakaret: 1
+görevi yaptırmamak için direnme, 2911 sayılı kanuna muhalefet: 1
+tehdit, hakaret, 6136 sayılı kanuna aykırılık: 1
+tehdit, konut dokunulmazlığını ihlal, 6136 sayılı kanuna aykırılık: 1
+hakaret, şantaj: 1
+nitelikli yağma, kasten nitelikli yaralama: 1
+konut dokunulmazlığını ihlal, silahla yaralama, genel güvenliği kasten tehlikeye sokacak şekilde silahla ateş etme: 1
+mala zarar verme, kişiyi hürriyetinden yoksun kılma: 1
+kamu görevlisine görevinden dolayı alenen hakaret, görevi yaptırmamak için direnme: 1
+muhteviyatı itibariye yanıltıcı belge düzenleme: 1
+kamu görevlisinin resmi belgede sahteciliği suçuna iştirak: 1
+tehdit, 6136 sayılı kanuna aykırılık, trafik güvenliğini tehlikeye sokma: 1
+tehdit, hakaret, görevi yaptırmamak için direnme: 1
+silahlı terör örgütüne üye olmamakla birlikte örgüt adına suç işleme, 2911 sayılı kanuna muhalefet,: 1
+cumhurbaşkanına hakaret: 1
+silahlı terör örgütüne üye olma, görevi yaptırmamak için direnme, 6136 sayılı kanuna muhalefet: 1
+yağma, korku, kaygı veya panik yaratabilecek tarzda silahla ateş etme, mala zarar verme, 6136 sayılı kanuna muhalefet: 1
+kasten yaralama, kişiyi hürriyetinden yoksun kılma, hakaret: 1
+basit yaralama, görevi kötüye kullanma: 1
+taksirle öldürme, yalan tanıklık: 1
+i̇hkakı hak: 1
+çocuğun cinsel istismarı (suça sürüklenen çocuklardan ...hakkında mağdurlar ... ile ...’a karşı; ... hakkında mağdur ...’a karşı); çocuğun nitelikli cinsel istismarı (suça sürüklenen çocuklardan...hakkında mağdur ...’a karşı bir defa ve ... hakkında mağdur ...’a karşı değişik tarihlerde birden fazla): 1
+cinsel taciz (mağdur ...’ya yönelik), kasten yaralama (mağdurlar ...ile ...’a yönelik): 1
+cinsel taciz (mağdur ...'e yönelik), kişilerin huzur ve sükununu bozma (mağdur ...'a yönelik): 1
+kasten yaralama, yaralamaya teşebbüs: 1
+i̇ş ve çalışma hürriyetinin ihlali, kasten yaralama: 1
+hukuki alacağın tahsili amacıyla birden fazla kişi ile tehdit: 1
+hukuki ilişkiye dayanan alacağın tahsili amacıyla tehdit: 1
+6136 sayılı kanun'a muhalefet, tehdit, kasten yaralama: 1
+hakaret, tehdit, konut dokunulmazlığının ihlali: 1
+yağma, tefecilik, dolandırıcılık: 1
+tehdit, 6136 sayılı yasaya aykırılık, kasten yaralama: 1
+tefecilik, 5464 sayılı kanuna aykırılık: 1
+2863 sayılı kanuna aykırılık, 6136 sayılı kanuna aykırılık: 1
+tehdit, hakkı olmayan yere tecavüz: 1
+suç işlemek amacıyla örgüt kurma, suç işlemek amacıyla kurulan örgüte üye olma, örgüt faaliyeti çerçevesinde fuhuş: 1
+konut dokunulmazlığının ihlali, şantaj, tehdit, kişilerin huzur ve sükununu bozma: 1
+tehdit, hakaret, kasten yaralamaya teşebbüs: 1
+tehdit, görevliye hakaret: 1
+kasten yaralama, silahla tehdit, konut dokunulmazlığının ihlali: 1
+tehdit, hakaret, konut dokunulmazlığının ihlali, 6136 sayılı yasaya muhalefet: 1
+çocuğun nitelikli cinsel istismarı, müstehcenlik, konut dokunulmazlığının ihlali: 1
+beden veya ruh sağlığını bozacak şekilde çocuğun nitelikli cinsel istismarı, kişiyi hürriyetinden yoksun kılma, tehdit, şantaj: 1
+çocuğun nitelikli cinsel istismarı (suça sürüklenen çocuklar), kişiyi hürriyetinden yoksun kılma (suça sürüklenen çocuk ...): 1
+nitelikli cinsel saldırı, kişiyi hürriyetinden yoksun kılma (sanıklar), şantaj (sanık ... ): 1
+nitelikli yağma, cinsel saldırı, kişiyi hürriyetinden yoksun kılma (mağdur ...’a karşı 2017 ve 2018 yıllarında birden fazla): 1
+2863 sayılı kanuna aykırılık, 6831 sayılı kanuna aykırılık: 1
+beden veya ruh sağlığını bozacak şekilde çocuğun cinsel istismarı, kasten yaralama: 1
+irz ve namusa tasaddide bulunma (mağdureler ... ile...e yönelik): 1
+çocuğun nitelikli cinsel istismarı, kişiyi hürriyetinden yoksun kılma, şantaj: 1
+cinsel taciz (mağdureler ...ile t...'a yönelik): 1
+cinsel taciz (mağdureler... ile ...a yönelik): 1
+çocuğun cinsel istismarı ve kişiyi hürriyetinden yoksun kılma (mağdurlar ... ile ...e yönelik): 1
+5015 sayılı kanuna aykırılık: 1
+nitelikli dolandırıcılık, nitelikli hırsızlık,kişisel verileri hukuka aykırı olarak ele geçirme, bilişim sistemine girme: 1
+suç i̇şlemek amacıyla örgüt kurma, suç i̇şlemek amacıyla kurulan örgüte üye olma, bozulmuş veya değiştirilmiş gıda veya i̇laç ticareti, marka hakkına tecavüz: 1
+4733 sayılı kanuna aykırılık: 1
+banka veya kredi kurumlarının araç olarak kullanılması suretiyle ve banka veya diğer kredi kurumlarınca tahsis edilmemesi gereken bir kredinin açılmasını sağlamak maksadıyla dolandırıcılık, resmi belgede sahtecilik: 1
+nielikli dolandırıcılık, resmi belgede sahtecilik: 1
+güveni kötüye kullanma(değişen suç vasfına göre hırsızlık): 1
+dolandırıcılık, tehdit ve hakaret: 1
+sahte fatura düzenleme, tefecilik: 1
+kamu malına zarar vermek, 5816 sayılı kanuna muhalefet: 1
+sahte belge düzenleme, tefecilik: 1
+defter, kayıt ve belgeleri gizleme, sahte fatura düzenleme: 1
+defter ve belgeleri ibraz etmeme: 1
+silahlı terör örgütüne üye olmamakla birlikte örgüte: 1
+7258 sayılı kanuna aykırılık: 1
+2873 sayılı kanuna aykırılık: 1
+2918 sayılı kanuna aykırılık: 1
+yağma, iftira: 1
+geceleyin yağma: 1
+nitelikli zimmet, kamu görevlisinin resmi belgede sahteciliği: 1
+nitelikli yağma, yanıcı ve patlayıcı madde bulundurmak: 1
+anayasayı ihlal, anayasayı ihlal suçuna yardım, türkiye büyük millet meclisini ortadan kaldırmaya: 1
+hakaret ve aile hukukundan doğan yükümlülüğün ihlali: 1
+yağma, yaralama: 1
+tehdit, yaralama hakaret: 1
+yağma, tefecilik: 1
+fuhuş, reşit olmayanla cinsel ilişki, çocuğun kaçırılması ve alıkonulması: 1
+cebir, tehdit veya hile kullanarak kişiyi hürriyetinden yoksun kılma, tehdit: 1
+kişiyi hürriyetinden yoksun kılma, kasten yaralam: 1
+kişiyi hürriyetinden yoksun kılma, kişiler arasındaki konuşmaların dinlenmesi ve kayda alınması: 1
+hakaret, trafik güvenliğini tehlikeye sokma: 1
+2863 sayılı kanuna aykırılık, trafik güvenliğini tehlikeye sokma: 1
+görevi yaptırmamak için direnme, hakaret, tehdit: 1
+tehdit, kasten yaralama, yağma: 1
+hakaret, bilişim sistemine girme: 1
+başkalarına ait kimlik veya kimlik bilgilerinin kullanıması: 1
+nitelikli hırsızlık, konut dokunulmazlığını ihlal, mala zarar verme, nitelikli yağma: 1
+konut dokunulmazlığını ihlal etme, mala zarar verme: 1
+haksız yere elde bulundurduğu anahtarla hırsızlık: 1
+yağma, kişiyi hürriyetinden yoksun kılmak: 1
+2004 sayılı kanuna aykırılık: 1
+kamu malına zarar verme, kamu görevlisine hakaret, trafik güvenliğini tehlikeye sokma, memura mukavemet: 1
+kamu malına zarar verme, kamu görevlisine hakaret, görevi yaptırmamak için direnme: 1
+dolandırıcılık, başkalarına ait kimlik veya kimlik bilgilerinin kullanılması: 1
+banka veya kredi kartının kötüye kullanılması suretiyle yarar sağlama: 1
+dolandırıcılık ve şantaj: 1
+sahte belge düzenleme: 1
+resmi belgenin düzenlenmesinde yalan beyanda bulunma: 1
+kasten yaralama, trafik güvenliğini tehlikeye sokma: 1
+kasten yaralama, görevli memura direnme ve hakaret: 1
+görevi yaptırmamak için direnme, silahlı terör: 1
+silahlı terör örgütüne üye olmamakla birlikte: 1
+nitelikli cinsel saldırı, tehdit, kasten yaralama: 1
+nitelikli cinsel saldırı, kasten yaralama: 1
+nitelikli dolandırıcılık, sahtecilik: 1
+kamu kurum ve kuruluşlarının, kamu meslek kuruluşlarının, siyasi parti, vakıf veya dernek tüzel kişiliklerinin araç olarak kullanılması suretiyle dolandırıcılık: 1
+bilişim sistemleri, banka veya kredi kurumlarının araç olarak kullanılması suretiyle dolandırıcılık: 1
+hizmet nedeniyle güveni kötüye kullanma, suç uydurma: 1
+resmi belgede sahtecilik ve nitelikli dolandırıcılık: 1
+taksirle yaralama, tehdit: 1
+dolandırıcılık, resmi belgede sahtecilik: 1
+bilişim sistemleri, banka veya kredi kuruluşlarının araç olarak kullanılması suretiyle dolandırıcılık ve resmi belgede sahtecilik: 1
+nitelikli dolandırıcılık, resmi belgenin düzenlenmesinde yalan beyan: 1
+nitelikli dolandırıcılık suçuna teşebbüs, işlenmediğini bildiği bir suçu işlenmiş gibi ihbar etmek, resmi belgede sahtecilik: 1
+eşi kasten öldürmeye teşebbüs: 1
+hakaret, tehdit, cinsel taciz: 1
+hakaret, tehdit, kasten yaralamaya teşebbüs: 1
+görevi yaptırmamak için direnme, yargı organlarını aşağılama: 1
+tehdit, yaralama, aile hukukundan kaynaklanan yükümlüğün ihlali: 1
+eğitim öğretimin engellenmesi: 1
+kasten basit yaralama, nitelikli tehdit: 1
+6136 sayılı kanun'a aykırılık, genel güvenliğin kasten tehlikeye sokulması: 1
+kamu görevinin usulsüz olarak üstlenilmesi: 1
+başkasına ait kimlik veya kimlik bilgilerinin kullanılması, 6136 sayılı yasaya aykırılık: 1
+kasten yaralama, hakaret, konut dokunulmazlığını ihlal etme, mala zarar verme, 6136 sayılı yasaya aykırılık: 1
+kasten yaralama sonucu ölüme sebebiyet verme: 1
+kasten öldürme, 6136 sayılı yasaya aykırılık: 1
+kasten adam öldürme: 1
+kasten yaralama sonucu ölüme neden olmak: 1
+tehdit, hakaret, inanç, düşünce ve kanaat hürriyetinin kullanılmasını engelleme: 1
+tehdit, mala zarar verme, hakaret, yaralama, konut dokunulmazlığının ihlali: 1
+nitelikli yağma, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suç işlemek amacıyla örgüt kurma ve bu örgüte üye olma, rüşvet alma, rüşvet verme, resmi belgede sahtecilik: 1
+1072 sayılı kanuna aykırılık, kumar oynanması için yer ve imkan sağlama: 1
+kasten yangın çıkarma, tehdit: 1
+başkalarına ait kimlik veya kimlik bilgilerini kullanma ve hırsızlık: 1
+6136 sayılı yasaya aykırılık, silahla tehdit, hakaret, genel güvenliği kasten tehlikeye sokacak şekilde silahla ateş etme: 1
+kişiyi hürriyetinden yoksun kılma, nitelikli cinsel istismar: 1
+kasten yaralama, kamu görevlisine hakaret: 1
+mala zarar verme, yaralama: 1
+yaralama, 6136 sayılı kanuna aykırılık: 1
+trafik güvenliğini tehlikeye sokma, yaralama, tehdit: 1
+kişilerin huzur ve sükununu bozma, cinsel taciz: 1
+hakaret, kasten yaralama, birden fazla kişiyle birlikte tehdit, tehdit: 1
+hayvanın tehlike yaratabilecek şekilde serbest bırakılması: 1
+6136 sayılı yasaya aykırılık, tehdit, kasten yaralama: 1
+kişiyi hürriyetinden yoksun kılma, cilsel saldırı: 1
+suçu ve suçluyu övmek: 1
+başkalarına ait kimlik veya kimlik bilgilerinin kullanılması, kasten yaralama: 1
+1-uyuşturucu veya uyarıcı madde madde ticareti yapma veya sağlama (sanıklar hk): 1
+resmen teslim olunan mala elkonulması ve bozulması: 1
+6136 sayılı yasaya aykırılık, kasten yaralama, silahla tehdit: 1
+tehlikeli maddeleri izinsiz olarak bulundurma veya el değiştirme, 6136 sayılı yasaya aykırılık: 1
+başkasına ait banka ve kredi kartının izinsiz kullanılması: 1
+kasten yaralama ve tehdit: 1
+yalan tanıklık, iftira, yargı görevini yapanı etkilemeye teşebbüs, suç uydurma: 1
+hekimin gerçeğe aykırı belge düzenlemesi: 1
+görevi kötüye kullanmak, 1163 sayılı kanuna aykırılık: 1
+basit yaralamaya teşebbüs: 1
+çocuğun cinsel istismarı, kişiyi hürriyetinden yoksun kılma, şantaj: 1
+tacir veya şirket yöneticisi olan ya da şirket adına hareket eden kişilerin ticari faaliyetleri sırasında dolandırıcılık: 1
+basit yaralama, kasten yaralama, 6136 sayılı kanun'a aykırılık: 1
+kasten öldürme, yağma, 6136 sayılı kanuna muhalefet: 1
+kasten öldürmeye teşebbüs, 6136 sayılı kanuna muhalefet.: 1
+hayasızca hareketler: 1
+kasten yaralama, iş ve çalışma hürriyetinin ihlali: 1
+kasten silahla yaralama: 1
+edimin ifasına fesat karıştırma, 4735 sayılı kanuna muhalefet: 1
+tehlikeli maddelerin izinsiz olarak bulundurulması veya el değiştirmesi, nitelikli mala zarar verme, görevi yaptırmamak için direnme: 1
+kardeşi kasten öldürme: 1
+adam öldürmeye teşebbüs: 1
+üstsoy akrabayı kasten öldürmek: 1
+tehdit, hakaret, kasten yaralama, iftira, infaz kurumuna veya tutukevine yasak eşya sokma: 1
+basit yaralama, 6136 sayılı kanun'a aykırılık: 1
+kasten öldürmeye teşebbüse azmettirme: 1
+hayasızca hareketlerde bulunma, kasten yaralama: 1
+silahla tehdit,hakaret: 1
+var olan veya varsayılan suç örgütlerinin oluşturdukları korkutucu güçten yararlanılarak tehdit: 1
+hakaret, iftira, tehdit: 1
+görevi kötüye kullanmaya azmettirme, tebligat kanununa muhalefet: 1
+6136 sayılı yasaya aykırılık, kasten yaralama, genel güvenliğin kasten tehlikeye sokulması: 1
+kişiyi hürriyetinden yoksun kılma, mala zarar verme, kasten yaralama: 1
+zincirleme suretle görevi kötüye kullanma: 1
+görev gereklerini yapmakta ihmal ve bu nedenle menfaat temini: 1
+yağmaya teşebbüs, kişiyi hürriyetten yoksun bırakmak, kasten yaralama: 1
+görüntü veya seslerin kayda alınması suretiyle özel hayatın gizliliğini ihlal: 1
+görüntü veya seslerin kayda alınması suretiyle özel hayatın gizliliğini ihlal, şantaj: 1
+yağma, kasten yaralama, tehdit: 1
+defter belge ibraz etmeme, sahte fatura düzenlemek: 1
+görüntü veya seslerin kayda alınması suretiyle özel hayatın gizliliğini ihlal, görüntü veya seslerin ifşa edilmesi suretiyle özel hayatın gizliliğini ihlal, şantaj: 1
+uyuşturucu madde ticaretini yapma: 1
+resmi belgenin sahtecilik: 1
+nitelikli hırsızlık, iş yeri dokunulmazlığını bozma: 1
+kamu kurum ve kuruluşlarının araç olarak kullanılması suretiyledolandırıcılık: 1
+dolandırıcılık, 5809 sayılı kanun’a muhalefet: 1
+dolandırıcılık, tehdit, hakaret: 1
+kişinin içinde bulunduğu tehlikeli durum veya zor şartlardan yararlanmak suretiyle dolandırıcılık: 1
+nitelikli dolandırıcılık, resmi belgede sahtecilik, özel belgede sahtecilik: 1
+nitelikli dolandırıcılık suçuna teşebbüs: 1
+bilişim sistemlerini aracı kılmak suretiyle dolandırıcılık: 1
+4926 sayılı yasaya muhalefet: 1
+i̇şyeri dokunulmazlığının ihlali, mala zarar verme: 1
+rüşvet: 1
+genel güvenliğin kasten tehlikeye sokulması, 6136 sayılı yasaya aykırılık: 1
+mala zarar verme, tehdit, hakaret, görevi yaptırmamak için direnme: 1
+göçmen kaçakçılığı, insan ticareti: 1
+tehdit, hakaret, şantaj: 1
+i̇hmali davranışla görevi kötüye kullanma: 1
+kasten yaralama, iftira: 1
+başka bir suçu işleyememekten kaynaklanan infialle öldürme, yağmaya teşebbüs: 1
+beden bakamından kendisini savunamayacak durumda bulunan kişiyi kasten öldürmeye teşebbüs: 1
+tefecilik, suç işlemek amacıyla örgüt kurma, kurulan örgüte üye olmak ve yardım etme: 1
+silahla tehdit, kamu görevlisine hakaret, kasten yaralama: 1
+mala zarar verme, görevi yaptırmamak için direnme, hakaret, kasten yaralama, tehdit: 1
+görevli memura hakaret: 1
+kasten yaralama, tehdit, kişiyi hürriyetinden yoksun kılma: 1
+3091 sayılı yasaya muhalefet: 1
+kişiyi hürriyetin yoksun kılma: 1
+resmi evlenme işlemi olmadan evlenmek için dinsel tören yapmak: 1
+gerçeğe aykırı bilirkişilik veya tercümanlık yapma: 1
+kasten yaralama, 6136 sayılı kanun'a muhalefet, genel güvenliğin kasten tehlikeye sokulması: 1
+görevi kötüye kullanma, resmi belgede sahtecilik kamu kurum ve kuruluşlarının zararına dolandırıcılık: 1
+kasten yaralama sonucu ölüme sebebiyet verme, 6136 sayılı kanuna muhalefet: 1
+tasarlayarak, beden bakımından kendisini savunamayacak kişiyi öldürmeye azmettirme: 1
+resmi belgede sahtecilik, kamu kurum ve kuruluşlarının zararına dolandırıcılık: 1
+resmi belgede sahtecilik, bilişim sistemleri banka veya kredi kurumlarının araç olarak kullanılması suretiyle dolandırıcılık, taklit anahtarla kilit açmak suretiyle hırsızlık: 1
+i̇nfaz kurumuna veya tutuevine yasak eşya sokma: 1
+kişiyi hürriyetinden yoksun kılma, cinsel taciz: 1
+kasten öldürme, 6136 sayılı yasaya muhalefet: 1
+görevi kötüye kullanma ve hakkı olmayan yere tecavüz etme: 1
+tehdit, iş yeri dokunulmazlığını ihlal: 1
+verileri hukuka aykırı olarak verme veya ele geçirme, tehdit, hakaret: 1
+cebir, tehdit veya hile kullanarak kişiyi hürriyetinden yoksun kılma: 1
+devletin egemenlik alametlerini aşağılama, hakaret, görevi yaptırmamak için direnme: 1
+devletin egemenlik alametlerini aşağılama, hakaret: 1
+kasten silahla yaralama, 6136 sayılı yasaya aykırılık: 1
+hakaret, iş ve çalışma hürriyetinin ihlali, yaralama: 1
+kişiyi hürriyetinden yoksun kılma, silahla tehdit: 1
+resmi belgede sahtecilik ve görevi kötüye kullanma: 1
+görevinin gereklerini yapmakta i̇hmal göstermek: 1
+hırsızlık, ibadethanelere zarar verme: 1
+kamu malına kasten zarar verme: 1
+i̇ltimas suretiyle yargı görevi yapanı, bilirkişiyi veya tanığı etkilemeye teşebbüs: 1
+hırsızlık, mala zarar verme, iş yeri dokunulmazlığını bozma: 1
+kullanmak için uyuşturucu bulundurma: 1
+defter belge gizleme: 1
+çocuğun soy bağını değiştirmek: 1
+hizmet nedeniyle güveni kötüye kullanma, serbest dolaşımda bulunmayan eşyayı rejim hükümlerine aykırı olarak gümrük bölgesinde bırakmak: 1
+6136 sayılı kanuna muhalefet, birden fazla kişi ile birlikte silahla tehdit, kasten yaralamaya teşebbüs: 1
+tehdit, yaralama, 6136 sayılı kanuna aykırılık, genel güvenliğin kasten tehlikeye sokulması: 1
+silahla tehdit, mala zarar verme, hakaret, silahla kasten yaralama teşebbüs, kasten yaralama: 1
+birlikte tehdit, kişiyi hürrüyetinden yoksun bırakma,silahla kasten yaralama,hakaret: 1
+tehdit, hakaret, görevi yaptırmamak için direnme, 6136 sayılı kanuna aykırılık: 1
+suç işlemek amacıyla örgüt kurma, suç işlemek amacıyla kurulan örgüte üye olma, hırsızlık, konut dokunulmazlığının ihlali, mala zarar verme, suç eşyasının satın alınması veya kabul edilmesi: 1
+çocuğun cinsel istismarı, fuhuş: 1
+efrada suimuamele: 1
+tehdit,yaralama: 1
+tehdit, hakaret, mala zarar verme, yaralama: 1
+silahla tehdit, genel güvenliğin kasten tehlikeye sokulması, kasten yaralama, 6136 sayılı yasaya muhalefet: 1
+tehdit, 6136 sayılı kanuna aykırılık, mala zarar verme: 1
+silahla tehdit, sair tehdit, hakaret, mala zarar verme: 1
+i̇haleye fesat karıştırma (üç kez): 1
+nitelikli yağma, dolandırıcılık: 1
+çocuğu kasten öldürmek: 1
+kasten yaralama, mala zarar verme, 6136 sayılı kanun'a aykırılık: 1
+5607 sayılı yasaya muhalefet, suç işlemek amacıyla örgüt kurma ve bu örgüte üye olma, kamu malına zarar verme, rüşvet alma ve rüşvet verme: 1
+i̇rtikap, zimmet: 1
+6136 sayılı yasaya aykırılık, hakaret: 1
+görevi kötüye kullanma, 1163 sayılı kanun'a aykırılık: 1
+görevi kötüye kullanma, 237 sayılı taşıt kanunu'na muhalefet: 1
+tehdit,yaralama, mala zarar verme,hakaret: 1
+müstehcenlik, 5186 sayılı kanuna muhalefet: 1
+tehdit,yaralama,6136 salıyı yasaya muhalefet: 1
+denetim görevinin ihmali (sanıklar ... ve ... hakkında), zimmet (diğer sanıklar hakkında): 1
+rüşvet alma ve rüşvet verme, edimin ifasına fesat karıştırma: 1
+çocuğun kaçırılması ve alıkonulması, kişiyi hürriyetinden yoksun kılma, kasten yaralama: 1
+i̇hmal suretiyle görevi kötüye kullanma: 1
+kasten öldürme, yaralama: 1
+5607 sayıl yasaya aykırılık: 1
+kasten yaralama, tehdit, 6136 sayılı yasaya aykırılık: 1
+üstsoy'dan akrabayı kasten öldürmek: 1
+çocuğun cinsel istismarı (mağdureler şefika, ...ile ...'ya yönelik): 1
+a) uyuşturucu madde ticareti yapma: 1
+çocuğun cinsel istismarı (değişik tarihlerde birden fazla), şantaj: 1
+çocuğun cinsel istismarı (mağdureler ......, m......ile ...'ye yönelik): 1
+çocuğun cinsel istismarı, müstehcenlik (5237 sayılı tck'nın 226/1-a maddesi): 1
+bilişim sistemlerinin araç olarak kullanılması suretiyle dolandırıcılık: 1
+hizmet nedeniyle güveni kötüye kullanma,güveni kötüye kullanma: 1
+ticari sır, bankacılık sırrı veya müşteri sırrı niteliğindeki bilgi ve belgelerin açıklanması: 1
+özel belgede sahtecilik, nitelikli dolandırıcılık: 1
+trafik güvenliğini tehlikeye sokma, hakaret, görevi yaptırmamak için direnme: 1
+resmi belgenin düzenlenmesinde yalan beyan, görevi yaptırmamak için direnme: 1
+tehdit, şantaj: 1
+şantaj, sair tehdit, hakaret: 1
+suç işlemek amacıyla örgüt kurma, suç işlemek amacıyla kurulan örgüte üye olma, banka ve kredi kartlarının kötüye kullanılması: 1
+zimmet ve görevi kötüye kullanma (sanıklar ..., ... ve ... hakkında), 1163 sayılı kanuna muhalefet (diğer sanıklar hakkında): 1
+kasten öldürmeye teşebbüs, silahla tehdit: 1
+şantaj, tehdit, kişilerin huzur ve sükununu bozma: 1
+zincirleme nitelikli zimmet, kamu görevlisinin resmi belgede zincirleme sahteciliği: 1
+tehlikeli maddelerin izinsiz kullanılması veya el değiştirmesi: 1
+suç delillerini yok etme, gizleme veya yer değiştirme: 1
+resmen teslim alınan taşınmaza el koyma: 1
+başkasına ait kimlik veya kimlik bilgilerinin kullanılması, resmi belgede sahtecilik: 1
+göçmen kaçakçılığı, suç işlemek amacıyla örgüt kurma: 1
+tehdit, basit tehdit, hakaret: 1
+bilişim suçu: 1
+görevi yaptırmamak için direnme, kanuna aykırı toplantı ve yürüyüşlere silahsız katılarak ihtara rağmen kendiliğinden dağılmama, silahlı olarak katılınan toplantı ve yürüyüşte ihtara rağmen dağılmama, suç işlemek amacıyla kurulan örgüte üye olmamakla birlikte örgüt adına suç işleme: 1
+6136 sayılı yasaya muhalefet, kasten yaralama: 1
+tehdit,hakaret,yaralama: 1
+i̇haleye fesat karıştırma, rüşvet alma ve rüşvet verme, suç işlemek amacıyla örgüt kurma ve bu örgüte üye olma: 1
+zincirleme nitelikli zimmet, kamu malına zarar verme: 1
+kişiyi hürriyetinden yoksun kılma, konut dokunulmazlığının ihlali: 1
+taksirle ölüne neden olma, görevi ihmal: 1
+görevi kötüye kullanma, kamu kurum ve kuruluşlarının zararına dolandırıcılık: 1
+tehdit, hakaret, kişiyi hürriyetinden yoksun kılma: 1
+tehlikeli maddelerin izinsiz olarak bulundurulması, genel güvenliği tehlikeye sokacak şekilde silahla ateş etmek: 1
+suç uydurma, hakaret, iftira: 1
+i̇hmal sureti ile görevi kötüye kullanma: 1
+kasten öldürme, 6136 sayılı kanununa muhalefet: 1
+eşini öldürmeye teşebbüs, tehdit.: 1
+nitelikli kasten öldürmek, nitelikli cinsel saldırı, kişiyi hürriyetinden yoksun kılma: 1
+adam öldürme: 1
+silahla tehdit, hakaret, basit yaralama: 1
+2863 sayılı yasaya muhalefet, imar kirliliğine neden olmak: 1
+üstsoydan akrabayı kasten öldürmek: 1
+suç işlemek amacıyla örgüt kurma: 1
+birden fazla kişiyle tehdit, hakaret, mala zarar verme, konut dokunulmazlığını ihlal: 1
+sarkıntılık suretiyle çocuğun cinsel istismarı (mağdureler... ile ...'a yönelik): 1
+atatürk'ün hatırasına alanen hakaret: 1
+6750 sayılı kanuna aykırılık: 1
+237 sayılı kanuna aykırılık: 1
+tehdit, eşe karşı kötü muamele, yaralama, 6136 sayılı yasaya muhalefet: 1
+birden fazla kişi ile birlikte silahla tehdit, yaralama, hakaret, tehdit, genel güvenliğin kasten tehlikeye sokulması: 1
+kamu malına zarar verme, genel güvenliğin kasten tehlikeye sokulması: 1
+çocuğa karşı kasten öldürmeye teşebbüs: 1
+dolandırıcılık, 1219 sayılı kanuna aykırılık: 1
+kasten öldürme, kasten öldürmeye teşebbüs, konut dokunulmazlığının ihlali, mala zarar verme: 1
+tasarlayarak öldürmeye teşebbüs, 6136 sayılı yasaya aykırılık: 1
+kasten öldürme; suç delillerini gizleme: 1
+olası kastla öldürme, 6136 sayılı yasaya muhalefet: 1
+kasten öldürme, mala zarar verme: 1
+tehdit, görevi yaptırmamak için direnme, yaralama, hakaret, mala zarar verme: 1
+5607 ve 6136 sayılı kanuna aykırılık: 1
+öldürmeye teşebbüs: 1
+nitelikli şekilde kasten öldürmeye teşebbüs etmek: 1
+kasten yaralama, görevi yaptırmamak için direnme, kamu görevlisine hakaret: 1
+kasten öldürme, kasten öldürmeye yardım etmek, kasten öldürmeye azmettirmek: 1
+sanıklardan ... ve ... hakkında rüşvet alma, zincirleme basit zimmet, zincirleme icrai davranışla görevi kötüye kullanma, ayrı ayrı olmak üzere üçer kez 1163 sayılı yasaya muhalefet, ... hakkında zincirleme basit zimmet, icrai davranışla görevi kötüye kullanma, kamu görevlisinin suçu bildirmemesi, 1163 sayılı yasaya muhalefet, ... hakkında zincirleme icra davranışla görevi kötüye kullanma, ... hakkında icrai davranışla görevi kötüye kullanma, ... hakkında rüşvet verme, ... ve ... hakkında ihmali davranışla görevi kötüye kullanma: 1
+1219 sayılı kanuna aykırılık, tehdit: 1
+zorla kaçırılıp alı koyma: 1
+genel güvenliği kasten tehlikeye sokacak şekilde silahla ateş etme ve 6136 sayılı kanuna muhalefet: 1
+çocuğu veya beden veya ruh bakımından kendini savunamayacak kişiyi tasarlayarak öldürme, kasten öldürmeye azmettirme, devletin birliğini ve ülke bütünlüğünü bozma, kişiyi hürriyetinden yoksun bırakma, silahlı terör örgütüne üye olma ve bu örgüte yardım, tehlikeli maddeleri izinsiz bulundurma: 1
+tehdit, hakaret, basit yaralamaya teşebüs: 1
+tehdit, mala zarar verme, hakaret, 6136 sayılı yasaya muhalefet: 1
+tehdit, yaralama, 6136 sayılı yasaya muhalefet: 1
+silahla tehdit, silahla yaralama, 6136 sayılı kanuna muhalefet: 1
+tehdit, birden fazla kişi ile birlikte silahla tehdit: 1
+basit zimmet ve özel belgede sahtecilik: 1
+resmi belgede sahtecilik, banka veya kredi kartlarının kötüye kullanılması: 1
+basit kasten yaralama, mala zarar verme: 1
+mahkumiyet: 1
+kişiyi hürriyetinden yoksun kılma, konut dokunulmazlığının ihlali, kasten yaralama: 1
+başkalarına ait kimlik veya kimlik bilgilerinin kullanılması, resmi belgenin düzenlenmesinde yalan beyan: 1
+konut dokunulmazlığının ihlali, basit yaralama: 1
+hırsızlık, iş yeri dokunulmazlığı bozma: 1
+sahte fatura kullanma, resmi belgede sahtecilik: 1
+neticesi sebebiyle ağırlaşmış yaralama, basit yaralama, hakaret, basit tehdit: 1
+kasten yaralamaya teşebbüs, 6136 sayılı yasaya aykırılık: 1
+kasten öldürme, kasten öldürmeye yardım, kasten öldürmeye azmettirme: 1
+reşit olmayanla cinsel ilişki (sanık ...), çocuğun kaçırılması ve alıkonulması (sanıklar): 1
+beden veya ruh sağlığını bozacak şekilde çocuğun cinsel istismarı, şantaj, çocuğun kaçırılması ve alıkonulması: 1
+çocuğun nitelikli cinsel istismarı (sanık ...), şantaj (sanıklar): 1
+kamu malına zarar verme, kamu görevlisine görevinden dolayı hakaret, tehdit: 1
+nitelikli cinsel saldırı, konut dokunulmazlığının ihlali, neticesi sebebiyle ağırlaşmış yaralama: 1
+nitelikli cinsel saldırı, kişiyi hürriyetinden yoksun kılma, yağma: 1
+çocuğun cinsel istismarı (mağdurlar ... ile ...'e yönelik): 1
+basit tehdit, kişilerin huzur ve sükununu bozma: 1
+beden veya ruh sağlığını bozacak şekilde çocuğun cinsel istismarı, kişiyi hürriyetinden yoksun kılma (mağdureler ... ile ...'a yönelik): 1
+kişiyi hürriyetinden yoksun kılma, cinsel taciz, konut dokunulmazlığının ihlali: 1
+taksirle ölüme neden olma, 6136 sayılı yasaya muhalefet.: 1
+i̇mar kirliğine neden olma: 1
+görev yaptırmamak için direnme, hakaret: 1
+kasten öldürmeye teşebbüs ve bu suça yardım, mala zarar verme: 1
+a) suç işlemek amacıyla örgüt kurma ve yönetme (sanıklar ..., ... ve ... hakkında): 1
+silahla tehdit, 6136 sayılı kanuna aykırılık, kasten yaralama: 1
+trafik güvenliğini tehlikeye sokma, taksirle yaralama: 1
+muhteviyatı itibarıyla yanıltıcı belge düzenleme ve kullanma: 1
+kamu görevlisinin resmi belgede sahteciliği, nitelikli dolandırıcılık: 1
+tehdit (sanık ...), beden veya ruh sağlığını bozacak şekilde cinsel saldırı (sanık ...): 1
+beden veya ruh sağlığını bozacak şekilde çocuğun nitelikli cinsel istismarı (suça sürüklenen çocuklar ...,..., ...); çocuğun cinsel istismarı (suça sürüklenen çocuk ...), kişiyi hürriyetinden yoksun kılma (suça sürüklenen çocuklar): 1
+i̇haleye fesat karıştırma (tüm sanıklar hakkında), edimin ifasına fesat karıştırma (sanık ... hakkında): 1
+nitelikli dolandırıcılık , resmi belgede sahtecilik: 1
+nitelikli dolandırıcılık, kamu görevlisinin resmi belgede sahteciliği: 1
+beden veya ruh sağlığını bozacak şekilde çocuğun nitelikli cinsel istismarı (sanıklar), kişiyi hürriyetinden yoksun kılma (sanık ...): 1
+mala zarar verme, hırsızlık, konut dokunulmazlığını ihlal: 1
+beden veya ruh sağlığını bozacak şekilde nitelikli cinsel saldırı (sanıklar); tehdit, 6136 sayılı kanuna muhalefet (sanık ...): 1
+nitelikli dolandırıcılık, resmi belgede sahtecilik, hizmet nedeniyle güveni kötüye kullanma: 1
+kamu kurum ve kuruluşları zararına dolandırıcılık,özel belgede sahtecilik: 1
+hizmet nedeniyle güveni kötüye kullanma, özel belgeyi bozma, yok etme veya gizleme: 1
+gerçeğe aykırı harcama belgesi, nakit ödeme belgesi yada alacak belgesi düzenlenme: 1
+rüşvet vermeye teşebbüs, göçmen kaçakçılığına teşebbüs: 1
+verileri hukuka aykırı olarak verme veya ele geçirme: 1
+kişiyi hürriyetinden yoksun kılma, kasten yaralama, özel hayatın gizliliğini ihlal: 1
+kasten öldürmeye teşebbüs, kasten yaralama, mala zarar verme, tehdit, 6136 sayılı yasaya aykırılık: 1
+defter ve kayıtlarda hesap ve muhasebe hileleri yapmak: 1
+kasten öldürmeye yardım, kasten öldürmeye teşebbüse yardım: 1
+kasten öldürmeye teşebbüs, 6136 sayılı yasaya muhalefet: 1
+üstsoya karşı kasten öldürmeye teşebbüs: 1
+taksirle öldürmek: 1
+nitelikli öldürmeye teşebbüs, nitelikli yağmaya teşebbüs: 1
+kasten eşini öldürme: 1
+beden veya ruh sağlığını bozacak şekilde nitelikli cinsel saldırı, cinsel saldırı, hakaret, tehdit: 1
+nitelikli öldürmeye teşebbüs, nitelikli mala zarar verme: 1
+hırsızlık, işyeri dokunulmazlığını ihlal, mala zarar verme: 1
+hırsızlık, iş yeri dokunulmazlığını bozma, suç eşyasının satın alınması veya kabul edilmesi: 1
+hırsızlık, yaralama, silahla tehdit, hakaret, tehdit: 1
+çocukların cinsel istismarı, şantaj: 1
+yedieminlik görevini suistimal: 1
+haksız yere sahipli hayvanı öldürme, hayasızca harekette bulunma: 1
+mala zarar vermenin nitelikli halleri: 1
+suç eşyasının satın alınması veya kabul edilmesi, hırsızlık: 1
+hukuki alacağı tahsil amacıyla kasten yaralama: 1
+tehdit, şantaj, hakaret, görüntü veya seslerin ifşa edilmesi suretiyle özel hayatın gizliliğini ihlal: 1
+yağma suçunu işleyebilmek amacıyla kasten öldürme, yağma: 1
+cinsel saldırı, tehdit: 1
+kamu malına zarar verme, neticesi sebebiyle ağırlaşmış yaralama: 1
+genel güvenliğin taksirle tehlikeye sokulması: 1
+başkasına ait kimlik veya kimlik bilgilerini kullanma, memura yalan beyan: 1
+rüşvet almak, yalan tanıklık: 1
+beden veya ruh sağlığını bozacak şekilde çocuğun cinsel istismarı, kişiyi hürriyetinden yoksun kılma (müşteki sanık); tehdit (sanık): 1
+cinsel taciz, tehdit, kişilerin huzur ve sükununu bozma: 1
+şantaj, görüntü veya seslerin ifşa edilmesi suretiyle özel hayatın gizliliğini ihlal: 1
+tehdit, mala zarar verme, 6136 sayılı kanun'a aykırılık: 1
+kişilerin huzur ve sükununu bozma, tehdit, cinsel taciz: 1
+yağma teşebbüs: 1
+yağma, kişiyi hürriyetinden yoksun kılma, banka ve kredi kartlarının kötüye kullanılması: 1
+konut dokunulmazlığının ihlal etme: 1
+tehdit, cinsel taciz, 6136 sayılı kanun'a aykırılık: 1
+nitelikli hırsızlık, yağma, mala zarar verme: 1
+nitelikli hırsızlık, işyeri dokunulmazlığını ihlal etme: 1
+1072 sayılı yasaya aykırılık: 1
+başkasına ait kimlik veya kimlik bilgilerini kullanma, trafik güvenliğini tehlikeye sokma: 1
+tehdit, kasten yaralama, 6136 sayılı kanun'a aykırılık: 1
+tehdit, 6136 sayılı kanun'a aykırılık, mala zarar verme, genel güvenliğin kasten tehlikeye sokulması, hakaret: 1
+mala zarar verme, yaralama, hakaret, tehdit: 1
+tehdit, hakaret, yaralamaya teşebbüs: 1
+yağma, tehdit: 1
+genel güvenliği kasten tehlikeye sokacak şekilde yangın çıkarma: 1
+6136 sayılı yasaya aykırılık, resmi belgede sahtecilik: 1
+mala zarar verme, kasten yaralama, tehdit, hakaret: 1
+i̇nsan öldürmeye teşebbüs: 1
+eşini öldürmeye teşebbüs: 1
+tehdit, silahla kasten basit yaralama, mala zarar verme: 1
+alacağı tahsil amacıyla tehdit ve silahla kasten basit yaralama: 1
+basit yaralama, hizmet nedeniyle güveni kötüye kullanma: 1
+haşhaş ekme: 1
+1- görevi yaptırmamak için direnme: 1
+kasten öldürme, ruhsatsız silah taşıma, mala zarar verme: 1
+resmi belgede sahtecilik, adil yargılamayı etkilemeye teşebbüs: 1
+i̇zinsiz kenevir ekme: 1
+çocuğun cinsel i̇stismarı: 1
+5411 sayılı yasaya aykırılık, resmi belgede sahtecilik: 1
+nitelikli cinsel saldırı, kişiyi hürriyetinden yoksun kılma, eziyet: 1
+çocuğun cinsel istismarı, tehdit, hakaret: 1
+banka veya kredi kartlarının kötüye kullanılması, nitelikli dolandırıcılık: 1
+taksirle yangın çıkarma: 1
+özel belgede sahtecilik, başkasına ait kimlik veya kimlik bilgilerinin kullanılması: 1
+neticesi sebebiyle ağırlaşmış kasten yaralama sonucu ölüme neden olma: 1
+tasarlayarak öldürme ve bu suça azmettirme, yağma ve bu suça teşebbüs, yağmaya teşebbüse yardım, kişiyi hürriyetinden yoksun kılma ve bu suça yardım, 6136 sayılı yasaya muhalefet: 1
+nitelikli öldürme, cinsel saldırı, nitelikli yağma: 1
+olası kastla öldürme, kasten öldürmeye teşebbüs: 1
+nitelikli öldürmeye yardım: 1
+konut dokunulmazlığının ihlali, hırsızlık: 1
+kamu malına zarar verme, hakaret, görevi yaptırmamak için direnme, kullanmak için uyuşturucu veya uyarıcı madde satın almak: 1
+mala zarar verme, tehdit, hakaret: 1
+hırsızlık, konut dokunulmazlığını bozma, mala zarar verme, suç eşyasının satın alınması veya kabul edilmesi: 1
+i̇nanç, düşünce ve kanaat hürriyetinin kullanılmasını engelleme: 1
+zincirleme nitelikli zimmet, kamu görevlisinin resmi belgede zincirleme sahteciliği, görevi kötüye kullanma: 1
+i̇cbar suretiyle irtikap: 1
+nüfuz ticareti: 1
+hırsızlık, mala zarar verme, işyeri dokunulmazlığını ihlal etme: 1
+basit yaralama ve hırsızlık: 1
+kasten yaralama, işyeri dokunulmazlığının ihlali, hakaret,tehdit, kişiyi hürriyetinden yoksun kılma: 1
+çocuğun kaçırılması ve alıkonulması, resmi evlenme işlemi olmadan evlenmek için dinsel tören düzenleme: 1
+kamu görevlisine görevinden dolayı hakaret, suç işlemeye alenen tahrik: 1
+birden fazla kişi tarafından birlikte yağma, tefecilik yapmak, resmi belgede sahtecilik: 1
+şantaj, cinsel taciz, hakaret: 1
+hakaret, kişilerin huzur ve sükununu bozma: 1
+silahla ve birden fazla kişiyle birlikte tehdit, hakaret, kasten yaralama: 1
+rüşvet alma ve rüşvet verme, resmi belgede sahtecilik: 1
+4733sayılı yasaya aykırılık: 1
+5607 ve 5809 sayılı kanunlara muhalefet: 1
+kasten öldürmeye teşebbüs, kişiyi hürriyetinden yoksun kılma: 1
+tehdit, kasten yaralama, 6136 sayılı yasaya aykırılık: 1
+tefecilik yapmak, kumar oynanması için yer ve imkan sağlama: 1
+tefecilik, hakaret, tehdit: 1
+tefecilik yapmak, güveni kötüye kullanma: 1
+6136 sayılı kanun’a muhalefet, kasten yaralama, konut dokunulmazlığının ihlali, mala zarar verme: 1
+kasten yaralama, tehdit mala zarar verme: 1
+kasten yaralama, eziyet, kişiyi hürriyetinden yoksun kılma: 1
+kasten yaralama, tehdit, görevi yaptırmamak için direnme: 1
+basit yaralama, kasten yaralama, hakaret, tehdit: 1
+basit yaralama, kasten yaralama, basit yaralamaya teşebbüs: 1
+eşyayı, gümrük işlemlerine tâbi tutmaksızın ülkeye sokmak: 1
+uyuşturucu ve uyarıcı madde ticareti yapma: 1
+başkasına ait kimlik veya kimlik bilgilerinin kullanılması, taksirle yaralama, trafik güvenliğini tehlikeye sokma: 1
+kişiyi hürriyetinden yoksun kılma, iftira: 1
+i̇ftira, görevi kötüye kullanma: 1
+5464 sayılı kanuna aykırılık: 1
+silahla tehdit, kasten yaralama, 6136 sayılı yasaya aykırılık: 1
+görüntü veya seslerin kayda alınması suretiyle özel hayatın gizliliğini ihlal, görüntü veya seslerin ifşa edilmesi suretiyle özel hayatın gizliliğini ihlal, hakaret, şantaj, tehdit: 1
+yargı görevi yapanı, bilirkişiyi veya tanığı etkilemeye teşebbüs: 1
+silahlı tehdit: 1
+çocuğun nitelikli cinsel istismarına teşebbüs (mağdure...'ye yönelik): 1
+çocuğun nitelikli cinsel istismarı, aralarında resmi evlenme olmaksızın evlenmenin dinsel törenini yapma: 1
+çocuğun nitelikli cinsel istismarı (değişik tarihlerde birden fazla): 1
+hizmet nedeniyle güveni kötüye kullanma, ihmal suretiyle görevi kötüye kullanma: 1
+zimmet, resmi belgede sahtecilik, denetim görevini ihmal ederek zimmete neden olmak: 1
+i̇haleye fesat karıştırma (her iki sanık hakkında üçer kez), özel belgede sahtecilik (sanık ... hakkında üç kez): 1
+kamu kurum ve kuruluşları, vb. tüzel kişiliklerin araç olarak kullanılması suretiyle dolandırıcılık: 1
+1136 sayılı kanuna aykırılık: 1
+dini inanç ve duygularının istismarı suretiyle dolandırıcılık: 1
+kamu kurum ve kuruluşlarının araç olarak kullanılması suretiyle dolandırıcılık, özel belgede sahtecilik (5809 sayılı yasa’ya muhalefet): 1
+nitelikli yağma, kişiyi hürriyetinden yoksun kılma, hakaret: 1
+birden fazla kişi ile tehdit, mala zarar vermek, kasten yaralama: 1
+başkasını intihara yönlendirme halinde intiharın gerçekleşmesi, kasten öldürme: 1
+tasarlayarak kan gütme saikiyle öldürme: 1
+nitelikli şekilde öldürmek, gasp: 1
+silahla tehdit, hırsızlık, basit yaralama: 1
+mala zarar verme, basit yaralama: 1
+kişiyi hürriyetinden yoksun kılma, kasten yaralama, hakaret, tehdit: 1
+kişiyi hürriyetinden yoksun kılma, yaralama: 1
+hırsızlık, kişiyi hürriyetinden yoksun kılma: 1
+kasten öldürme, nitelikli yağma, kişiyi hürriyetinden yoksun kılma: 1
+silahla tehdit, kasten yaralama, 6136 sayılı kanuna muhalefet: 1
+silahla tehdit, hırsızlık, yaralama: 1
+tehdit, mala zarar verme, kullanmak maksadıyla uyuşturucu bulundurma, yaralama: 1
+tehdit, kişilerin huzur ve sükunu bozma: 1
+tefecilik (iki kez): 1
+tefecilik, silahla tehdit: 1
+görevi kötüye kullanma (iki kez): 1
+kasten öldürme ve bu suça yardım.: 1
+hırsızlık, konut dokunulmazlığı bozma, mala zarar verme: 1
+mala zarar verme, hakkı olmayan yere tecavüz: 1
+5326 sayılı yasaya aykırılık: 1
+hırsızlık, iş yeri dokunulmazlığını bozma, ibadethanelere zarar verme: 1
+başka bir suçtan umulan faydayı elde etmek için ya da infialle öldürme: 1
+hırsızlık, başkasına ait kimlik veya kimlik bilgilerini kullanma: 1
+birden fazla kişi tarafından birlikte yağma, kasten yaralama: 1
+nitelikli şekilde kasten öldürme: 1
+taksirle ölüme neden olma: 1
+tehdit, hakaret, kasten yaralama, görevi yaptırmamak için direnme: 1
+tehdit, hakaret, mala zarar verme, konut dokunulmazlığını ihlal: 1
+nitelikli hırsızlık, suç eşyasının satın alınması veya kabul edilmesi: 1
+kamu kurum ve kuruluşlarındaki eşya hakkında hırsızlık: 1
+kötü muamele, hakaret, kasten yaralama: 1
+hırsızlık, mala zarar verme, konut dokunulmazlığını ihlal: 1
+nitelikli cinsel saldırıya teşebbüse yardım etmek: 1
+kasten öldürme, yağma, hırsızlık, 6136 sayılı yasaya aykırılık: 1
+birden fazla kişi ile birlikte silahla tehdit, kasten yaralama, konut dokunulmazlığını ihlal, hakaret, mala zarar verme: 1
+hırsızlık, basit yaralama: 1
+hırsızlık, güveni kötüye kullanma: 1
+kişiyi hürriyetinden yoksun bırakma: 1
+tehdit, kasten yaralama, hakaret, mala zarar verme, 6136 sayılı kanuna muhalefet: 1
+5271 sayılı kanuna muhalefet: 1
+4708 sayılı yasaya muhalefet: 1
+silahla tehdit, hakaret, görevi yaptırmamak için direnme, 6136 sayılı kanuna muhalefet: 1
+birden fazla kişi ile birlikte silahla tehdit, hakaret, kasten yaralama: 1
+silahla tehdit, taksirle yaralama: 1
+tehdit, kasten yaralama, 6136 sayılı kanuna aykırılık: 1
+kamu malına zarar verme, tutuklu veya hükümlünün kaçması: 1
+i̇ş ve çalışma hürriyetini ihlali: 1
+kamu malına zarar verme, direnme: 1
+nitelikli hırsızlık, iftira: 1
+nitelikli hırsızlık, mala zarar verme, konut dokunulmazlığını ihlal etme: 1
+bilişim sistemlerini kullanmak suretiyle hırsızlık, banka veya kredi kartlarının kötüye kullanılması, bilişim sistemindeki verileri bozma, yok etme, erişilmez kılma, resmi belgede sahtecilik, başkasına ait kimlik veya kimlik bilgilerini kullanma: 1
+6136 sayılı yasaya aykırılık, 5607 sayılı yasaya aykırılık: 1
+trafik güvenliğini tehlikeye sokma, iftira, kasten yaralama, yalan tanıklık: 1
+banka veya kredi kartlarının kötüye kullanılması, nitelikli dolandırıcılık, resmi belgede sahtecilik: 1
+kişiyi hürriyetinden yoksun kılma, silahla tehdit, mala zarar verme, hakaret, basit yaralama, tehdit, basit tehdit: 1
+tehdit, kasten yaralama, hakaret, cinsel taciz: 1
+tefecilik, bedelsiz senedi kullanmak: 1
+görevi yaptırmamak için direnme, kasten yaralama: 1
+tehdit, silahla yaralama: 1
+görevi yaptırmamak için direnme, nitelikli mala zarar verme: 1
+görevi yaptırmamak için direnme, tehdit, mala zarar verme, hakaret, kasten yaralama, iftira: 1
+basit yaralama, cinsel saldırı: 1
+kasten yaralama, kişilerin huzur ve sükununu bozma: 1
+basit kasten yaralamaya teşebbüs: 1
+resmi belgede sahtecilik, 7201 sayılı kanuna muhalefet: 1
+uyuşturucu madde ticaret yapma: 1
+nitelikli hırsızlık, konut dokunulmazlığını ihlal, başkasına ait kimlik veya kimlik bilgilerini kullanmak: 1
+basit cinsel saldırı, kişiyi hürriyetinden yoksun kılma (sanıklar); tehdit (sanık ...): 1
+beden veya ruh sağlığını bozacak şekilde çocuğun: 1
+nitelikli cinsel saldırı, kişiyi özgürlüğünden yoksun kılma: 1
+6361 sayılı kanuna aykırılık: 1
+başkasına ait kimlik veya kimlik bilgilerinin kullanılması, resmi belgenin düzenlenmesinde yalan beyan: 1
+eziyet: 1
+bir suçu gizlemek veya başka bir suçun delillerini gizlemek ya da yakalanmamak amacıyla öldürme, yağma, kamu malına zarar verme, hükümlü veya tutuklunun kaçması, iftira, hırsızlık, müessir fiil.: 1
+tehdit, hakaret, kamu malına zarar verme: 1
+nitelikli yağma, suç işlemek amacıyla örgüt kurma: 1
+nitelikli yağma, kasten yaralama: 1
+alacağın tahsili amacıyla tehdit, kasten yaralama: 1
+kasten öldürmeye teşebbüs, olası kastla yaralama: 1
+birden fazla kişi ile birlikte konutta geceleyin yağma: 1
+bina içinde muhafaza altına alınmış olan eşya hakkında hırsızlık, işyeri dokunulmazlığını bozma: 1
+nitelikli yağmaya teşebbüs, görevi yaptırmamak için direnme: 1
+5607 ve 5809 sayılı kanuna muhalefet: 1
+yeni doğan bebeğini ihmali davranışla kasten öldürme: 1
+kişiyi hürriyetinden yoksun bırakma, kasten yaralama: 1
+kasten babaanneyi öldürme: 1
+5411 sayılı kanuna muhalefet, özel belgede sahtecilik: 1
+görevi yaptırmamak için direnme, tehlikeli maddeleri izinsiz olarak bulundurma veya el değiştirme: 1
+tefecilik, 5464 sayılı kanuna muhalefet: 1
+tefecilik, suç işlemek amacıyla örgüt kurmak, mala zarar verme, tehdit: 1
+şantaj, kişisel verilerin kaydedilmesi,kişiyi hürriyetinden yoksun bırakma: 1
+birden fazla kişi ile tehdit, hakaret, tehdit: 1
+silahla tehdit, hakaret, yaralamaya teşebbüs: 1
+silahla tehdit, hakaret, konut dokunulmazlığını ihlal: 1
+gece vakti yağma: 1
+yağma, hakaret: 1
+nitelikli yağma, silahla tehdit, mala zarar verme, 6136 sayılı yasaya aykırılık: 1
+çocuğa karşı eziyet: 1
+kişiyi hürriyetinden yoksun kılma, kasten yaralama, 6136 sayılı yasaya aykırılık, hakaret: 1
+hırsızlık, kasten yaralama: 1
+tefecilik yapmak, tehdit, 6136 sayılı kanuna muhalefet: 1
+nitelikli kasten öldürme, kasten öldürmeye teşebbüs, hırsızlık: 1
+kasten öldürme, kasten öldürmeye azmettirme: 1
+kişiyi hürriyetinden yoksun kılma, tehdit, hakaret, mala zarar verme: 1
+nitelikli yağmaya teşebbüs etmek, yağma amacıyla öldürmeye teşebbüs etmek: 1
+sistemi engelleme, bozma, verileri yok etme veya değiştirme, bilişim sistemine girme, cinsel taciz: 1
+hırsızlık, banka ve kredi kartının kötüye kullanılması: 1
+4733 ve 5607 sayılı kanuna muhalefet: 1
+resmi belgede sahtecilik, 4733 sayılı kanuna muhalefet: 1
+kasten yaralama, tehdit, hakaret, silahla tehdit: 1
+kamu malına zarar verme, tehdit, hakaret: 1
+5607 sayılı yasaya muhalefet, trafik güvenliğini tehlikeye sokmak: 1
+tehdit, 6136 sayılı yasaya muhalefet, genel güvenliğin kasten tehlikeye sokulması: 1
+sahte belge düzenleme ve tefecilik: 1
+başkalarına ait kimlik bilgilerini kullanma: 1
+beden ve ruh sağlığın bozacak şekilde çocuğun nitelikli cinsel istismarı, kişiyi hürriyetinden yoksun kılma: 1
+silahla tehdit, hakaret, cinsel taciz: 1
+1-kullanmak için uyuşturucu madde bulundurma: 1
+basit tehdit, iftira, hakaret: 1
+basit yaralama, kasten yaralama, hakaret: 1
+kasten yaralama, silahla tehdit, 6136 sayılı kanun’a aykırılık: 1
+kasten öldürmeye teşebbüs ve bu suça yardım, kasten yaralama: 1
+şantaj, tehdit, hakaret, cinsel taciz, kişilerin huzur ve sükununu bozma: 1
+nitelikli hırsızlık, konut dokunulmazlığının ihlali, suç eşyasının satılan alınması veya kabul edilmesi: 1
+yağma, dolandırıcılık: 1
+birden fazla kişi ile silahla tehdit: 1
+yağma, kişiyi hürriyetinden yoksun bırakma, tehdit, mala zarar verme, hakaret: 1
+hırsızlık, mala zarar verme, konut dokunulmazlığını ihlal etme: 1
+nitelikli öldürme, nitelikli öldürmeye azmettirme, nitelikli öldürmeye yardım.: 1
+kasten öldürme, kasten öldürmeye yardım etme: 1
+nitelikli öldürmeye teşebbüs, kişiyi hürriyetinden yoksun kılmak, nitelikli cinsel saldırı.: 1
+silahla tehdit, basit yaralama: 1
+genel güvenliği kasten tehlikeye sokacak şekilde silahla ateş etme, kasten yaralama, tehdit: 1
+başkasına ait kimlik veya kimlik bilgilerini kullanma ve hırsızlık: 1
+tefecilik yapmak, 5464 sayılı kanuna muhalefet: 1
+tefecilik yapmak, 3628 sayılı kanunu muhalefet: 1
+kasten öldürme, suçluyu kayırma: 1
+tehdit, kötü muamele: 1
+silahla tehdit, hakaret, kasten yaralama, konut dokunulmazlığının ihlali, mala zarar verme: 1
+tehdit, silahla tehdit: 1
+nitelikli hırsızlık, işyeri dokunulmazlığını bozma, mala zarar verme: 1
+yağmaya teşebbüs, kasten yaralama, 6136 sayılı kanuna aykırılık, suçluyu kayırma: 1
+tehdit, hakaret, 6136 sayılı yasaya muhalefet: 1
+tehdit, konut dokunulmazlığını ihlal: 1
+rüşvet alma ve rüşvet verme (tüm sanıklar hakkında), resmi belgede sahtecilik (sanıklar ... ve ... haklarında): 1
+hırsızlık, işyeri dokunulmazlığının ihlal: 1
+hukuki ilişkiye dayanan alacağın tahsili amacıyla kasten yaralama: 1
+bina içinde muhafaza altına alınmış olan eşya hakkında hırsızlık, konut dokunulmazlığının ihlali, mala zarar verme: 1
+resmi belge düzenlenmesinde yalan beyan, 6136 sayılı yasaya aykırılık: 1
+tefecilik yapma, şantaj, tehdit: 1
+yaralama, 6136 sayılı yasaya aykırılık, mala zarar verme: 1
+tefecilik yapma, tehdit, hakaret, basit yaralama: 1
+tefecilik yapma, 5464 sayılı yasaya muhalefet: 1
+kasten yaralama, 6136 sayılı kanun’a muhalefet: 1
+a- kullanmak için uyuşturucu madde bulundurma: 1
+çocuğun nitelikli cinsel istismarı, kişiyi hürriyetinden yoksun kılma (sanıklar); verileri hukuka aykırı olarak verme veya ele geçirme (sanık ...): 1
+tehdit, şantaj, kişiler huzur ve sükununu bozma: 1
+nitelikli yağma (değişen suç vasfı nedeniyle kasten yaralama): 1
+1- kenevir ekme: 1
+çocuğun nitelikli cinsel istismarı, çocuğun cinsel istismarı, kişiyi hürriyetinden yoksun kılma: 1
+nitelikli cinsel saldırıya teşebbüs: 1
+hakaret, sair tehdit: 1
+kamu kurum ve kuruluşları aleyhine dolandırıcılık ve resmi belgede sahtecilik: 1
+banka veya diğer kredi kurumlarınca tahsis edilmemesi gereken bir kredinin açılmasını sağlamak amacıyla dolandırıcılık: 1
+sistemi engelleme, bozma, verileri yok etme veya değiştirme, bilişim sistemleri banka veya kredi kurumlarının araç olarak kullanılması suretiyle dolandırıcılık: 1
+kişinin içinde bulunduğu zor şartlardan yararlanmak suretiyle dolandırıcılık: 1
+nitelikli dolandırıcılık, resmi belgede sahtecilik, hırsızlık: 1
+suç işlemek amacıyla örgüt kurmak, suç işlemek amacıyla kurulan örgüte üye olmak, nitelikli dolandırıcılık, özel belgede sahtecilik: 1
+i̇şyeri dokunulmazlığını bozma: 2
+hırsızlık, işyeri dokunulmazlığını bozma: 2
+nitelikli hırsızlık, konut dokunulmazlığının ihlali: 2
+hırsızlık, banka veya kredi kartlarının kötüye kullanılması: 2
+hakaret, silahla tehdit: 2
+tefecilik, hakaret: 2
+6136 sayılı yasaya aykrılık: 2
+213 sayılı vergi usula kanuna muhalefet, tefecilik yapma: 2
+dilencilik: 2
+çocuğun nitelikli cinsel istismarı (sanıklar ... ile ...); şantaj ve özel hayatın gizliliğini ihlal (sanıklar ... ile ömer özkan); yağma (sanık ...): 2
+resmi belgeyi bozma, yok etme veya gizleme: 2
+beden veya ruh sağlığını bozacak şekilde çocuğun nitelikli cinsel istismarı, müstehcenlik: 2
+çocuğun nitelikli cinsel istismarı (sanıklar), kişiyi hürriyetinden yoksun kılma (sanık ...): 2
+beden veya ruh sağlığını bozacak şekilde çocuğun nitelikli cinsel istismarı, çocuğun kaçırılması ve alıkonulması, hırsızlık: 2
+çocuğun nitelikli cinsel istismarına teşebbüs, kişiyi hürriyetinden yoksun kılma: 2
+uyuşturucu madde ticareti yapma (her iki sanık hakkında): 2
+eşi kasten öldürmek, kasten öldürme: 2
+cebir ve şartlı tehdit: 2
+yardım veya bildirim yükümlülüğünün yerine getirilmemesi sonucu ölüme neden olma: 2
+i̇haleye fesat karıştırma, resmi belgede sahtecilik: 2
+kasten öldürme, hırsızlık: 2
+hakaret, kasten yaralama, tehdit: 2
+nitelikli öldürmeye teşebbüs: 2
+nitelikli hırsızlık, mala zarar verme, konut dokunulmazlığını ihlal: 2
+olası kastla öldürme: 2
+kasten öldürmeye teşebbüs, 6136 sayılı yasaya aykırılık: 2
+hırsızlık, mala zarar verme, işyeri dokunulmazlığının ihlali: 2
+taklit anahtarla kilit açmak suretiyle hırsızlık: 2
+kasten yaralama, hakaret, mala zarar verme: 2
+yaralama, tehdit, hakaret: 2
+silahla tehdit, 6136 sayılı kanun'a muhalefet: 2
+silahlı terör örgütüne yardım etme: 2
+kamu malına zarar verme, mala zarar verme: 2
+i̇mzasız mektupla veya özel işaretlerle tehdit: 2
+resmi belgede sahtecilik, resmi belgenin düzenlenmesinde yalan beyan: 2
+silahla tehdit, hakaret, yaralama: 2
+özel işaret ve kıyafetleri usulsüz kullanma: 2
+sahte fatura kullanmak, defter ve belgeleri gizlemek: 2
+defter ve belgeleri gizleme, sahte fatura düzenleme: 2
+sahte fatura düzenlemek, defter ve belgeleri gizlemek: 2
+çocuğun cinsel istismarı (mağdureler ... ......,....,...., ile...a yönelik): 2
+dolandırıcılığa teşebbüs: 2
+uyuşturucu madde ticareti yapma, kullanmak için uyuşturucu madde bulundurma: 2
+1-uyuşturucu madde ticareti yapma: 2
+uyuşturucu madde imal etme: 2
+olası kastla yaralama: 2
+kasten yaralamak: 2
+yakarak mala zarar verme: 2
+mala zarar verme, silahla tehdit: 2
+i̇ş yeri dokunulmazlığının ihlali: 2
+i̇şkence: 2
+terk: 2
+çevrenin taksirle kirletilmesi: 2
+5015 sayılı yasaya aykırılık: 2
+kamu malına zarar verme, görevi yaptırmamak için direnme, kamu görevlisine karşı hakaret: 2
+kaçakçılık: 2
+hırsızlık, mala zarar verme, işyeri dokunulmazlığını ihlal: 2
+görevi yaptırmamak için direnme, tehdit, hakaret: 2
+5607sayılı yasaya aykırılık: 2
+cinsel saldırı, cinsel taciz: 2
+eziyet etme: 2
+1- uyuşturucu madde ticareti yapma (sanık ... hakkında): 2
+i̇şyeri dokunulmazlığını ihlal etme: 2
+tehdit ve hakaret: 2
+nitelikli hırsızlık, konut dokunulmazlığının ihlali, mala zarar verme: 2
+kamu görevlisinin resmi belgede sahteciliği, görevi kötüye kullanma: 2
+1072 sayılı kanuna muhalefet: 2
+kamu görevlileri ile ilişkisi olduğundan bahisle bir işin gördürüleceği vaadiyle dolandırıcılık: 2
+ölüme sebebiyet verecek şekilde kasten yaralamak: 2
+kasten öldürme, kasten yaralama: 2
+i̇kna suretiyle irtikap: 2
+görevi kötüye kullanma, resmi belgede sahtecilik: 2
+görevi kötüye kullanma, 1163 sayılı kanuna aykırılık: 2
+tehdit, hakaret, kasten yaralama, mala zarar verme: 2
+silahlı terör örgütünün propagandasını yapma: 2
+hırsızlık, resmi belgede sahtecilik: 2
+5607 sayılı kanuna muhalefet, resmi belgede sahtecilik: 2
+birden fazla kişi tarafından birlikte silahla tehdit: 2
+nitelikli hırsızlığa teşebbüs, mala zarar verme: 2
+nitelikli hırsızlık, iş yeri dokunulmazlığını ihlal etme: 2
+özel belgede sahtecilik (değişen suç vasfına göre 5809 sayılı yasaya muhalefet): 2
+resmi belgede sahtecilik, suç eşyasının satın alınması veya kabul edilmesi: 2
+çocuğun cinsel istismarı (mağdureler ... ile ...a yönelik): 2
+silahla tehdit, kasten yaralama, 6136 sayılı yasaya muhalefet: 2
+tehdit, konut dokunulmazlığının ihlali: 2
+kamu malına zarar verme, trafik güvenliğini tehlikeye sokma: 2
+trafik güvenliğini tehlikeye sokma, 5607 sayılı kanuna muhalefet: 2
+nitelikli hırsızlık, iş yeri dokunulmazlığının ihlali: 2
+5809 sayılı yasaya muhalefet: 2
+kişi hüviyet veya sıfatına ilişkin yalan beyanda bulunma: 2
+çocuğun nitelikli cinsel istismarı ( suça sürüklenen çocuk ...), çocuğun cinsel istismarı ( suça sürüklenen çocuk ...), kişiyi hürriyetinden yoksun kılma (suça sürüklenen çocuklar): 2
+özel belgede sahtecilik, hizmet nedeniyle güveni kötüye kullanma: 2
+5411 sayılı kanuna muhalefet: 2
+devletin birliğini ve ülke bütünlüğünü bozma,: 2
+kişiyi hürriyetinden yoksun kılma, hakaret: 2
+4733 ve 5607 sayılı kanunlara muhalefet: 2
+muhafaza görevinin kötüye kullanılması: 2
+tehdit, taksirle yaralama: 2
+tehdit, yaralama, 6136 sayılı kanun'a aykırılık: 2
+silahlı terör örgütüne üye olmamakla birlikte örgüt: 2
+tehdit, kasten yaralama, konut dokunulmazlığının ihlali: 2
+tehdit, genel güvenliğin kasten tehlikeye sokulması: 2
+tehdit, mala zarar verme, 6136 sayılı kanuna aykırılık: 2
+kasten öldürmeye teşebbüs, kasten yaralama: 2
+genel güvenliği tehlikeye sokacak şekilde kasten silahla ateş etme, 6136 sayılı yasaya aykırılık, kasten yaralama: 2
+nitelikli cinsel saldırı ve kişiyi hürriyetinden yoksun kılma (sanıklar), yağma (sanık ...): 2
+hakaret, görevi yaptırmamak için direnme, tehdit: 2
+defter ve belge gizleme, sahte fatura kullanma: 2
+taksirle öldürme, trafik güvenliğini tehlikeye sokma: 2
+şantaj, kişilerin huzur ve sükununu bozma: 2
+görüntü veya seslerin ifşa edilmesi suretiyle özel hayatın gizliliğini ihlal: 2
+beden veya ruh sağlığını bozacak şekilde çocuğun nitelikli cinsel istismarına teşebbüs: 2
+kamu kurum ve kuruluşları vb. tüzel kişiliklerin araç olarak kullanılması suretiyle dolandırıcılık: 2
+nitelikli kasten öldürme, nitelikli yağma: 2
+birden fazla kişi ile tehdit: 2
+nitelikli olarak konut dokunulmazlığını ihlal etme: 2
+sahte belge kullanma: 2
+kişiyi hürriyetinden yoksun kılma, 6136 sayılı yasaya aykırılık: 2
+cinsel taciz, tehdit: 2
+nitelikli yağma, kişiyi hürriyetinden yoksun bırakma: 2
+nitelikli yağma, hırsızlık: 2
+silahlı terör örgütüne üye olmamakla birlikte örgüt adına suç işleme: 2
+cinsel taciz (mağdureler a...,....,.... 'e yönelik): 2
+banka veya kredi kartlarının kötüye kullanılması, dolandırıcılık: 2
+tehdit, silahla tehdit, tefecilik: 2
+silahla tehdit, silahla kasten yaralama: 2
+hakaret, tehdit, mala zarar verme: 2
+cinsel taciz ve tehdit (mağdureler ...ile ...'ye yönelik): 2
+reşit olmayanla cinsel ilişki, çocuğun kaçırılması ve alıkonulması: 2
+çocuğun cinsel istismarı, müstehcenlik, tehdit: 2
+vergi usul kanunu'na muhalefet: 2
+denetim görevinin ihmali: 2
+rüşvet alma ve rüşvet verme: 2
+kasten yaralama, kötü muamele: 2
+i̇nfaz kurumuna yasak eşya sokma: 2
+yağma, kasten yaralama: 2
+kilitlenmek suretiyle muhafaza altına alınan eşya hakkında hırsızlık: 2
+basit yaralama, tehdit: 2
+tehdit, kasten yaralama, 6136 sayılı yasaya muhalefet: 2
+çocuğun nitelikli cinsel istismarı, çocuğun kaçırılması ve alıkonulması (sanık ...), çocuğun cinsel istismarı (sanık ...): 2
+çocuğun nitelikli cinsel istismarı, konut dokunulmazlığının ihlali: 2
+5816 sayılı kanuna muhalefet: 2
+memur olmayan kimsenin resmi belgede sahteciliği: 2
+hizmet nedeniyle güveni kötüye kullanma, görevi kötüye kullanma: 2
+silahla tehdit, kasten yaralama, hakaret: 2
+tehdit, mala zarar verme, hakaret: 2
+tehdit, yaralamaya teşebbüs: 2
+yalan yere yemin etme: 2
+müessir fiil: 2
+tehlikeli maddelerin izinsiz olarak bulundurulması veya el değiştirmesi: 2
+tehdit, yaralama, hakaret, mala zarar verme: 2
+kasten yaralama, genel güvenliğin kasten tehlikeye sokulması: 2
+kumar oynanması için yer ve imkan sağlama, 1072 sayılı yasaya aykırılık: 2
+defter, belge gizleme, sahte fatura düzenleme: 2
+nitelikli cinsel saldırı, tehdit: 2
+eşe karşı kasten öldürmeye teşebbüs: 2
+şantaj, cinsel taciz: 2
+zorla kaçırıp alıkoyma: 2
+kasten yaralama, cinsel taciz: 2
+kasten yaralama, mala zarar verme, hakaret: 2
+kasten yaralama, basit tehdit: 2
+özel hayatın gizliliğini ihlal: 2
+kişiyi hürriyetinden yoksun kılma, tehdit, kasten yaralama: 2
+kasten öldürmeye teşebbüs, hakaret: 2
+silahla birden fazla kişi ile birlikte tehdit: 2
+kasten yaralama, konut dokunulmazlığının ihlali: 2
+hakaret, mala zarar verme: 2
+kamu görevlisinin suçu bildirmemesi: 2
+i̇ftira, kasten yaralama: 2
+kamu kurum ve kuruluşlarının araç olarak kullanılması suretiyle dolandırıcılık, resmi belgede sahtecilik: 2
+silahla tehdit, silahla yaralama: 2
+neticesi sebebiyle ağırlaşmış yaralama, 6136 sayılı kanuna muhalefet etme: 2
+silahla tehdit, yaralama, hakaret: 2
+i̇ftira, fuhuş: 2
+kasten öldürme ve bu suça yardım: 2
+hayvanın tehlikeye yaratabilecek şekilde serbest bırakılması: 2
+çocuğun cinsel istismarı, hakaret, kasten yaralama: 2
+taksirle yaralama, trafik güvenliğini tehlikeye sokma: 2
+basit zimmet: 2
+sahte fatura düzenlemek ve kullanmak: 2
+5411 sayılı bankacılık kanununa muhalefet: 2
+hırsızlık, mala zarar verme, iş yeri dokunulmazlığını ihlal: 2
+görevi yaptırmamak için direnme, iftira: 2
+başkasına ait kimlik veya kimlik bilgilerinin kullanılması, trafik güvenliğini tehlikeye sokma: 2
+resmi belgede sahtecilik, güveni kötüye kullanma: 2
+çocuğun cinsel istismarı (mağdureler ...ile ...'e yönelik), çocuğun cinsel istismarına teşebbüs (mağdure ...'ye yönelik): 2
+hırsızlık, işyeri dokunulmazlığının ihlali, mala zarar verme: 3
+i̇nfaz kurumuna veya tutukevine yasak eşya sokmak: 3
+cinsel saldırı, kişiyi hürriyetinden yoksun kılma: 3
+silahla tehdit, tehdit: 3
+kasten öldürme, 6136 sayılı kanuna muhalefet: 3
+hakaret, tehdit, kasten yaralama: 3
+tasarlayarak öldürmeye teşebbüs: 3
+nitelikli kasten öldürme: 3
+tehdit, hakaret, konut dokunulmazlığının ihlali: 3
+silahla tehdit, hakaret, mala zarar verme: 3
+silahla ve birden fazla kişiyle birlikte tehdit: 3
+nitelikli hırsızlık, iş yeri dokunulmazlığını ihlal: 3
+i̇ftira, trafik güvenliğini tehlikeye sokma: 3
+kişiyi hürriyetinden yoksun kılma, kasten yaralama, hakaret: 3
+6136 sayılı yasaya aykırılık, genel güvenliği tehlikeye sokacak şekilde kasten silahla ateş etme: 3
+yaralama: 3
+silahla tehdit, hakaret, kasten yaralama: 3
+sahte fatura kullanma, defter ve belgeleri gizleme: 3
+kasten yaralama sonucu ölüme neden olma: 3
+konut dokunulmazlığının ihlali, mala zarar verme: 3
+konut dokunulmazlığının ihlali, kasten yaralama: 3
+zimmet, görevi kötüye kullanma: 3
+sair tehdit: 3
+i̇ş ve çalışma hürriyetinin ihlali, hakaret: 3
+yaralama, hakaret: 3
+tehdit, hırsızlık: 3
+5411 sayılı yasaya muhalefet: 3
+silahla tehdit, konut dokunulmazlığının ihlali: 3
+nitelikli hırsızlığa teşebbüs, konut dokunulmazlığını ihlal: 3
+5464 sayılı kanuna aykırılık, tefecilik, sahte belge düzenlemek: 3
+kasten yaralama.: 3
+kamu malına zarar verme, kasten yaralama: 3
+hakaret, kamu malına zarar verme: 3
+rüşvet verme: 3
+nitelikli zimmet: 3
+hırsızlık, işyeri dokunulmazlığını bozma, mala zarar verme: 3
+kasten yaralama, 6136 sayılı kanuna muhalefet: 3
+çocuğun nitelikli cinsel istismarı, çocuğun kaçırılması ve alıkonulması: 3
+tehlikeli maddeleri izinsiz olarak bulundurma veya el değiştirme: 3
+kamu malına zarar verme, tehdit: 3
+çocuğun nitelikli cinsel istismarı, kişiyi hürriyetinden yoksun kılma, şantaj, özel hayatın gizliliğini ihlal: 3
+edimin ifasına fesat karıştırma: 3
+tehdit, kişiyi hürriyetinden yoksun kılma: 3
+şantaj, özel hayatın gizliliğini ihlal: 3
+beden veya ruh sağlığını bozacak şekilde çocuğun nitelikli cinsel istismarı, kişiyi hürriyetinden yoksun kılma, kasten yaralama: 3
+1632 sayılı kanuna aykırılık: 3
+i̇ftira, hakaret: 3
+i̇ş yeri dokunulmazlığını ihlal: 3
+tefecilik yapmak, tehdit: 3
+tehdit, trafik güvenliğini tehlikeye sokma: 3
+silahlı terör örgütüne üye olmak: 3
+cinsel taciz, kasten yaralama: 3
+cinsel taciz, kişilerin huzur ve sükununu bozma, tehdit: 3
+irza geçme: 3
+kamu kurum ve kuruluşlarının araç olarak kullanılması suretiyle dolandırıcılık: 3
+sahte fatura düzenleme ve kullanma: 3
+tefecilik yapmak, 5464 sayılı kanuna aykırılık: 3
+hileli iflas: 3
+kamu kurum ve kuruluşları, vb.tüzel kişiliklerin araç olarak kullanılması suretiyle dolandırıcılık: 3
+görevi yaptırmamak için direnme, kamu malına zarar verme: 3
+çocuğun nitelikli cinsel istismarı (sanıklar ... ile...), sarkıntılık suretiyle çocuğun cinsel istismarı (sanık ...): 3
+çocuğun cinsel istismarı (mağdureler p...ile...'ya yönelik): 3
+kasten yangın çıkarma: 3
+silahla tehdit, genel güvenliğin kasten tehlikeye sokulması: 3
+görevli memura mukavemet: 3
+mühürde sahtecilik: 3
+değişen suç vasfına göre uyuşturucu madde ticareti yapma: 3
+resmi belgenin düzenlenmesinde yalan beyan,: 3
+cinsel taciz, hayasızca hareketlerde bulunma: 3
+nitelikli cinsel saldırı suçuna teşebbüs: 3
+beden veya ruh sağlığını bozacak şekilde çocuğun cinsel istismarı (mağdure ...ya karşı değişik tarihlerde birden fazla): 3
+i̇şyeri dokunulmazlığını ihlal: 3
+görevi yaptırmamak için direnme, hakaret, kamu malına zarar verme: 3
+nitelikli hırsızlık, konut dokunulmazlığını bozma: 3
+mala zarar verme, tehdit: 3
+nitelikli cinsel saldırı, eziyet, kişiyi hürriyetinden yoksun kılma, kasten yaralama: 3
+adet gereği açıkta bırakılmış eşya hakkında hırsızlık: 3
+nitelikli hırsızlık, mala zarar verme, iş yeri dokunulmazlığını ihlal etme: 3
+zincirleme şekilde çocuğun nitelikli cinsel: 3
+kardeşi kasten öldürmek: 4
+hırsızlık, tehdit: 4
+tehdit, hakaret, kişilerin huzur ve sükununu bozma: 4
+tefecilik yapma: 4
+kasten yaralama, görevi yaptırmamak için direnme: 4
+tehdit, 6136 sayılı kanuna muhalefet: 4
+defter ve belgeleri gizlemek: 4
+hırsızlık, mala zarar verme, iş yeri dokunulmazlığının ihlali: 4
+nitelikli hırsızlık, iş yeri dokunulmazlığını ihlal, mala zarar verme: 4
+hırsızlık, kamu malına zarar verme: 4
+nitelikli hırsızlık, konut dokunulmazlığını ihlal etme, mala zarar verme: 4
+silahla yağma: 4
+5411 sayılı yasaya aykırılık: 4
+petrol kaçakçılığı: 4
+hizmet nedeniyle güveni kötüye kullanma, özel belgede sahtecilik: 4
+i̇ş yeri dokunulmazlığını bozma: 4
+başkalarına ait kimlik veya kimlik bilgilerini kullanma: 4
+taksirle yangına neden olma: 4
+kamu malına zarar verme, görevi yaptırmamak için direnme, hakaret: 4
+birden fazla kişi ile birlikte silahla tehdit: 4
+karşılıksız yararlanma, mühür bozma: 4
+çocuğun cinsel istismarı (değişik tarihlerde birden fazla): 4
+dikili ağaç, fidan veya bağ çubuğuna zarar verme: 4
+kasten öldürme, kasten öldürmeye teşebbüs: 4
+genel güvenliği tehlikeye sokacak şekilde kasten silahla ateş etme, 6136 sayılı yasaya aykırılık: 4
+zincirleme basit zimmet: 4
+kasten yaralama, 6136 sayılı kanuna aykırılık: 4
+yağma, kişiyi hürriyetinden yoksun kılma: 4
+kasten yaralama, kişiyi hürriyetinden yoksun kılma: 4
+hırsızlık, iş yeri dokunulmazlığını ihlal: 4
+şantaj, tehdit: 4
+uyuşturucu madde ihraç etme: 4
+beden veya ruh sağlığını bozacak şekilde çocuğun nitelikli cinsel istismarına teşebbüs, kişiyi hürriyetinden yoksun kılma: 4
+mala zarar verme, hakaret: 4
+nitelikli hırsızlık, kamu malına zarar verme: 4
+1219 sayılı kanuna aykırılık: 4
+dolandırıcılık, tehdit: 4
+eşini öldürme: 4
+tehdit, 6136 sayılı kanuna aykırılık: 4
+6136 sayılı yasaya aykırılık, genel güvenliği kasten tehlikeye sokacak şekilde silahla ateş etme: 4
+özel belgede sahtecilik, hizmet nedeniyle görevi kötüye kullanma: 4
+banka veya kredi kartlarının kötüye kullanılması, nitelikli hırsızlık: 4
+genel güvenliğin kasten tehlikeye sokulması: 4
+sahte fatura düzenleme, defter ve belgeleri gizleme: 4
+tehdit,hakaret: 4
+nitelikli cinsel saldırı, kasten yaralama, hakaret: 4
+adil yargılamayı etkilemeye teşebbüs: 4
+çocuğun nitelikli cinsel istismarı (mağdure... yönelik), çocuğun cinsel istismarı (mağdureler ...le ...e yönelik): 4
+yaralama, tehdit: 5
+birlikte tehdit: 5
+şantaj, hakaret: 5
+aile hukukundan kaynaklanan yükümlülüğün ihlali: 5
+birden fazla kişiyle birlikte tehdit: 5
+kasten öldürmek: 5
+rüşvet vermeye teşebbüs: 5
+genel güvenliği tehlikeye sokacak şekilde taksirle yangına neden olma: 5
+kişiyi hürriyetinden yoksun kılma, mala zarar verme: 5
+suçluyu kayırma: 5
+hırsızlık, mala zarar verme, konut dokunulmazlığını bozma: 5
+nitelikli hırsızlık, konut dokunulmazlığını ihlal etme: 5
+basit tehdit: 5
+birden fazla kişi ile birlikte tehdit: 5
+zincirleme nitelikli zimmet: 5
+kötü muamele: 5
+sahte fatura düzenleme, sahte fatura kullanma: 5
+hırsızlık, iş yeri dokunulmazlığını ihlal, mala zarar verme: 5
+silahla tehdit, 6136 sayılı kanuna muhalefet: 5
+alacağı tahsil amacıyla tehdit: 5
+kamu malına zarar verme, görevi yaptırmamak için direnme: 5
+nitelikli hırsızlık, işyeri dokunulmazlığını ihlal: 5
+kaybolmuş veya hata sonucu ele geçmiş eşya üzerinde tasarruf: 5
+2863 sayılı kanuna muhalefet: 5
+tehdit, hakaret, cinsel taciz: 5
+suç delillerini yok etme, gizleme veya değiştirme: 5
+görevi yaptırmamak için direnme, trafik güvenliğini tehlikeye sokma: 5
+beden veya ruh sağlığını bozacak şekilde çocuğun cinsel istismarı, kişiyi hürriyetinden yoksun kılma, kasten yaralama: 5
+resmi belgede sahtecilik, nitelikli dolandırıcılık: 5
+nitelikli öldürme: 5
+i̇şyeri dokunulmazlığının ihlali: 5
+görevi i̇hmal: 5
+resmi belgede sahtecilik, nitelikli dolandırıcılık, rüşvet, görevi kötüye kullanma: 5
+çocuğun nitelikli cinsel istismarına teşebbüs: 5
+çocuğun kaçırılması veya alıkonulması: 5
+hukuki alacağın tahsili amacıyla tehdit: 6
+tehdit, hakaret, mala zarar verme: 6
+suç üstlenme: 6
+kasten basit yaralama: 6
+nitelikli mala zarar verme: 6
+hırsızlık, suç eşyasının satın alınması veya kabul edilmesi: 6
+hırsızlık, mala zarar verme, konut dokunulmazlığının ihlali: 6
+genel güvenliği kasten tehlikeye sokacak şekilde silahla ateş etme: 6
+sistemi engelleme, bozma, verileri yok etme veya değiştirme: 6
+6136 sayılı yasaya aykırılık, kasten yaralama: 6
+hırsızlık, işyeri dokunulmazlığını ihlal: 6
+çocuğun cinsel istismarı, şantaj: 6
+nitelikli dolandırıcılık ve resmi belgede sahtecilik: 6
+nitelikli hırsızlık, konut dokunulmazlığını ihlal, mala zarar verme: 6
+tasarlayarak öldürme: 6
+konut dokunulmazlığını ihlal etme: 6
+tehdit, kasten yaralama, hakaret: 6
+kamu kurum ve kuruluşlarının zararına dolandırıcılık, resmi belgede sahtecilik: 6
+tehdit, yaralama, 6136 sayılı kanuna aykırılık: 6
+tehdit, kişilerin huzur ve sükununu bozma: 6
+beden veya ruh sağlığını bozacak şekilde nitelikli cinsel saldırı: 6
+4926 sayılı kanuna muhalefet: 6
+1072 sayılı kanuna aykırılık: 6
+5809 sayılı kanuna muhalefet: 6
+kasten yaralama, 6136 sayılı yasaya aykırılık: 6
+kasten yaralama, silahla tehdit: 7
+mala zarar verme, kasten yaralama: 7
+nitelikli yağma, kişiyi hürriyetinden yoksun kılma: 7
+basın ve yayın araçlarının sağladığı kolaylıktan yararlanmak suretiyle dolandırıcılık: 7
+kamu malına zarar verme, hakaret: 7
+hırsızlık, konut dokunulmazlığını ihlal etme: 7
+başkasına ait kimlik veya kimlik bilgilerini kullanmak: 7
+298 sayılı kanuna muhalefet: 7
+silahla tehdit, mala zarar verme: 7
+1072 sayılı kanuna aykırılık, kumar oynanması i̇çin yer ve i̇mkan sağlama: 7
+nitelikli cinsel saldırı, kişiyi hürriyetinden yoksun kılma: 7
+banka veya kredi kurumlarının araç olarak kullanılması suretiyle dolandırıcılık, resmi belgede sahtecilik: 7
+resmi belgede sahtecilik, başkasına ait kimlik veya kimlik bilgilerinin kullanılması: 7
+tehdit, 6136 sayılı kanun'a aykırılık: 7
+uyuşturucu madde ithal etme: 7
+hakaret, tehdit, yaralama: 8
+tehdit, cinsel taciz: 8
+silahla tehdit, 6136 sayılı kanuna aykırılık: 8
+1- uyuşturucu madde ticareti yapma: 8
+beden veya ruh sağlığını bozacak şekilde çocuğun cinsel istismarı, kişiyi hürriyetinden yoksun kılma: 8
+sahte fatura düzenleme, defter ve belge gizleme: 8
+tehdit, 6136 sayılı yasaya muhalefet: 8
+kişiyi hürriyetinden yoksun kılma, tehdit: 8
+yağmaya teşebbüs: 8
+reşit olmayanla cinsel ilişki: 8
+konut dokunulmazlığını ihlal: 8
+eşi kasten öldürmek: 8
+cinsel taciz, hakaret: 8
+hayasızca hareketlerde bulunma: 8
+hırsızlık, işyeri dokunulmazlığının ihlali: 9
+hırsızlık, konut dokunulmazlığını ihlal, mala zarar verme: 9
+5015 sayılı yasaya muhalefet: 9
+defter, belge gizleme: 9
+bilişim sistemleri banka veya kredi kurumlarının araç olarak kullanılması suretiyle dolandırıcılık: 9
+beden veya ruh sağlığını bozacak şekilde nitelikli cinsel saldırı, kişiyi hürriyetinden yoksun kılma: 9
+vergi usul kanununa muhalefet: 9
+defter ve belge gizlemek: 10
+parada sahtecilik: 10
+dolandırıcılık, özel belgede sahtecilik: 10
+nitelikli hırsızlığa teşebbüs: 10
+beden veya ruh sağlığını bozacak şekilde cinsel saldırı: 10
+silahla tehdit, kasten yaralama: 10
+açığa imzanın kötüye kullanılması: 10
+resmi belgede sahtecilik, dolandırıcılık: 10
+kamu görevlisinin resmi belgede sahteciliği: 11
+silahla tehdit, 6136 sayılı yasaya muhalefet: 11
+i̇haleye fesat karıştırma: 11
+tehdit, mala zarar verme: 11
+5015 sayılı kanuna muhalefet: 11
+bilişim sistemleri banka veya kredi kurumlarının araç olarak kullanılması suretiyle dolandırıcılık, resmi belgede sahtecilik: 11
+kişiyi hürriyetinden yoksun kılma, kasten yaralama: 11
+konut dokunulmazlığını bozma: 11
+nitelikli dolandırıcılık, özel belgede sahtecilik: 11
+kasten yaralama, 6136 sayılı kanun'a aykırılık: 12
+yalan tanıklık: 12
+silahla tehdit, yaralama: 12
+kasten yaralama, tehdit, hakaret: 12
+genel güvenliği tehlikeye sokacak şekilde kasten silahla ateş etme: 14
+sahte fatura kullanmak: 14
+hırsızlık, iş yeri dokunulmazlığının ihlali: 14
+nitelikli yağmaya teşebbüs: 14
+2863 sayılı yasaya muhalefet: 14
+bedelsiz senedi kullanma: 15
+tehdit, yaralama, hakaret: 15
+çevrenin kasten kirletilmesi: 15
+defter ve belge gizleme: 15
+hakkı olmayan yere tecavüz etme: 15
+hakaret, yaralama: 16
+i̇nfaz kurumuna veya tutukevine yasak eşya sokma: 17
+defter, kayıt ve belgeleri gizleme: 17
+beden veya ruh sağlığını bozacak şekilde çocuğun nitelikli cinsel istismarı, kişiyi hürriyetinden yoksun kılma: 17
+hakaret, kasten yaralama: 17
+silahla tehdit, hakaret: 17
+hırsızlık, konut dokunulmazlığını ihlal: 17
+uyuşturucu veya uyarıcı madde ticareti yapma: 17
+suç uydurma: 18
+basit kasten yaralama: 18
+cinsel taciz, kişilerin huzur ve sükununu bozma: 18
+nitelikli hırsızlık, konut dokunulmazlığını ihlal: 19
+hırsızlık, iş yeri dokunulmazlığının ihlali, mala zarar verme: 19
+nitelikli hırsızlık, mala zarar verme: 20
+4733 sayılı yasaya aykırılık: 20
+5809 sayılı kanuna aykırılık: 20
+konut dokunulmazlığının ihlali: 21
+cinsel saldırı: 21
+kamu kurum ve kuruluşlarının zararına dolandırıcılık: 21
+başkalarına ait kimlik veya kimlik bilgilerinin kullanılması: 23
+hırsızlık, konut dokunulmazlığının ihlali, mala zarar verme: 24
+tehdit, hakaret, yaralama: 24
+uyuşturucu veya uyarıcı madde ticareti yapma veya sağlama: 25
+müstehcenlik: 25
+nitelikli cinsel saldırı: 26
+beden veya ruh sağlığını bozacak şekilde çocuğun nitelikli cinsel istismarı: 26
+güveni kötüye kullanma: 26
+4733 sayılı yasaya muhalefet: 26
+kasten yaralama, hakaret, tehdit: 26
+çocuğun cinsel istismarı, kişiyi hürriyetinden yoksun kılma: 26
+hırsızlık, iş yeri dokunulmazlığını bozma: 27
+sahte fatura düzenlemek: 27
+kasten yaralama, mala zarar verme: 27
+kasten yaralama, 6136 sayılı kanun'a muhalefet: 28
+tehdit, hakaret, kasten yaralama: 28
+5846 sayılı kanuna aykırılık: 29
+resmi belgenin düzenlenmesinde yalan beyan: 30
+şantaj: 31
+tefecilik yapmak: 31
+tefecilik: 32
+beden veya ruh sağlığını bozacak şekilde çocuğun cinsel istismarı: 32
+basit yaralama: 32
+6831 sayılı kanuna aykırılık: 33
+hırsızlık, iş yeri dokunulmazlığını bozma, mala zarar verme: 34
+mühür bozma: 35
+kasten yaralama, tehdit: 35
+banka veya kredi kartlarının kötüye kullanılması: 35
+hırsızlık, konut dokunulmazlığını bozma, mala zarar verme: 36
+hırsızlık, konut dokunulmazlığının ihlali: 37
+başkasına ait kimlik veya kimlik bilgilerini kullanma: 38
+defter ve belgeleri gizleme: 38
+taksirle öldürme: 38
+i̇ş ve çalışma hürriyetinin ihlali: 38
+neticesi sebebiyle ağırlaşmış yaralama: 39
+kişilerin huzur ve sükununu bozma: 39
+kenevir ekme: 40
+hükümlü veya tutuklunun kaçması: 42
+2863 sayılı kanuna aykırılık: 42
+hakaret, görevi yaptırmamak için direnme: 42
+görevi kötüye kullanmak: 42
+çocuğun kaçırılması ve alıkonulması: 43
+hakkı olmayan yere tecavüz: 43
+muhafaza görevini kötüye kullanma: 44
+tehdit, kasten yaralama: 44
+fuhuş: 45
+zimmet: 46
+özel belgede sahtecilik: 46
+çocuğun nitelikli cinsel istismarı, kişiyi hürriyetinden yoksun kılma: 47
+kasten öldürmeye teşebbüs: 48
+suç eşyasının satın alınması veya kabul edilmesi: 50
+kasten yaralama, hakaret: 56
+göçmen kaçakçılığı: 56
+karşılıksız yararlanma: 59
+tehdit, yaralama: 60
+sahte fatura kullanma: 61
+hırsızlık, mala zarar verme: 64
+çocuğun cinsel istismarı: 64
+hırsızlık, konut dokunulmazlığını bozma: 69
+başkasına ait kimlik veya kimlik bilgilerinin kullanılması: 69
+mala zarar verme: 73
+marka hakkına tecavüz: 75
+hizmet nedeniyle güveni kötüye kullanma: 76
+görevi yaptırmamak için direnme, hakaret: 80
+çocuğun nitelikli cinsel istismarı: 80
+nitelikli dolandırıcılık: 80
+nitelikli dolandırıcılık, resmi belgede sahtecilik: 81
+hakaret, tehdit: 84
+i̇mar kirliliğine neden olma: 90
+kasten öldürme: 92
+yağma: 93
+cinsel taciz: 97
+i̇ftira: 99
+sahte fatura düzenleme: 110
+4733 sayılı kanuna muhalefet: 110
+kamu malına zarar verme: 118
+görevi yaptırmamak için direnme: 121
+5607 sayılı yasaya aykırılık: 130
+nitelikli yağma: 133
+nitelikli hırsızlık: 138
+5607 sayılı yasaya muhalefet: 147
+görevi kötüye kullanma: 180
+trafik güvenliğini tehlikeye sokma: 188
+silahla tehdit: 189
+dolandırıcılık: 191
+resmi belgede sahtecilik: 201
+tehdit, hakaret: 205
+kişiyi hürriyetinden yoksun kılma: 210
+6136 sayılı yasaya aykırılık: 214
+taksirle yaralama: 284
+silahlı terör örgütüne üye olma: 285
+kullanmak için uyuşturucu madde bulundurma: 328
+5607 sayılı kanuna aykırılık: 361
+hakaret: 406
+5607 sayılı kanuna muhalefet: 423
+tehdit: 612
+hırsızlık: 682
+uyuşturucu madde ticareti yapma: 693
+kasten yaralama: 1485
+undefined: 12951
