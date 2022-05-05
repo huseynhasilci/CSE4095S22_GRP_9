@@ -1,0 +1,103 @@
+    " kasten yaralama": 2067, -> Vücut dokunulmazlığına karşı suçlar
+    " tehdit": 1509, -> Hürriyete Karşı Suçlar
+    " hakaret": 1317, ->  Şerefe karşı suçlar
+    " hırsızlık": 1173, ->  Malvarlığına karşı suçlar
+    " uyuşturucu madde ticareti yapma": 690, -> Kamunun sağlığına karşı suçlar
+    " mala zarar verme": 547, -> Malvarlığına karşı suçlar
+    " kişiyi hürriyetinden yoksun kılma": 454, -> Hürriyete Karşı Suçlar
+    " 5607 sayılı kanuna muhalefet": 428, ->  Kamu güvenine karşı suçlar
+    " resmi belgede sahtecilik": 386, -> Kamu güvenine karşı suçlar
+    " silahla tehdit": 363, -> : Hürriyete Karşı Suçlar
+    " 5607 sayılı kanuna aykırılık": 360, -> Kamu güvenine karşı suçlar
+    " görevi yaptırmamak için direnme": 328, ->  Kamu idaresinin güvenilirliğine ve işleyişine karşı suçlar
+    " kullanmak için uyuşturucu madde bulundurma": 297, -> Kamunun sağlığına karşı suçlar
+    " taksirle yaralama": 291, -> Vücut dokunulmazlığına karşı suçlar
+    " silahlı terör örgütüne üye olma": 286, -> Anayasal düzene ve bu düzenin işleyişine karşı suçlar
+    " 6136 sayılı yasaya aykırılık": 280, -> Anayasal düzene ve bu düzenin işleyişine karşı suçlar
+    " nitelikli hırsızlık": 259, -> Malvarlığına karşı suçlar
+    " dolandırıcılık": 231, -> Malvarlığına karşı suçlar
+    " trafik güvenliğini tehlikeye sokma": 226, -> Genel tehlike yaratan suçlar
+    " görevi kötüye kullanma": 212, -> Kamu idaresinin güvenilirliğine ve işleyişine karşı suçlar
+    " yaralama": 203, -> Vücut dokunulmazlığına karşı suçlar
+    " kamu malına zarar verme": 198, ->  Kamu idaresinin güvenilirliğine ve işleyişine karşı suçlar
+    " nitelikli dolandırıcılık": 197, -> Malvarlığına karşı suçlar
+    " cinsel taciz": 172, -> Cinsel dokunulmazlığa karşı suçlar
+    " nitelikli yağma": 167, -> Malvarlığına karşı suçlar
+    " 5607 sayılı yasaya muhalefet": 150, ->  Kamu güvenine karşı suçlar
+    " çocuğun nitelikli cinsel istismarı": 144, -> Cinsel dokunulmazlığa karşı suçlar
+    " konut dokunulmazlığının ihlali": 137, -> Hürriyete Karşı Suçlar
+    " kasten öldürme": 135, -> Hayata karşı suçlar
+    " sahte fatura düzenleme": 133, -> Kamu güvenine karşı suçlar
+    " 5607 sayılı yasaya aykırılık": 131, ->  Kamu güvenine karşı suçlar
+    " yağma": 128, -> Malvarlığına karşı suçlar
+    " konut dokunulmazlığını bozma": 128, -> Hürriyete Karşı Suçlar
+    " i̇ftira": 115, -> Adliyeye karşı suçlar
+    " 4733 sayılı kanuna muhalefet": 112, -> Kamunun sağlığına karşı suçlar
+    " çocuğun cinsel istismarı": 106, -> Cinsel dokunulmazlığa karşı suçlar
+    " hizmet nedeniyle güveni kötüye kullanma": 96, ->  Malvarlığına karşı suçlar
+    " i̇mar kirliliğine neden olma": 92, -> Çevreye karşı suçlar
+    " özel belgede sahtecilik": 88, -> Kamu güvenine karşı suçlar
+    " başkasına ait kimlik veya kimlik bilgilerinin kullanılması": 87, -> Adliyeye karşı suçlar
+    " şantaj": 86, -> Hürriyete Karşı Suçlar
+    " konut dokunulmazlığını ihlal": 85, -> Hürriyete Karşı Suçlar
+    " kişilerin huzur ve sükununu bozma": 84, -> Hürriyete Karşı Suçlar
+    " kasten öldürmeye teşebbüs": 78, -> Hayata karşı suçlar
+    " marka hakkına tecavüz": 76, -> Malvarlığına karşı suçlar
+    " sahte fatura kullanma": 72, -> Kamu güvenine karşı suçlar
+    " suç eşyasının satın alınması veya kabul edilmesi": 68, ->  Malvarlığına karşı suçlar
+    " iş yeri dokunulmazlığını bozma": 68, -> Hürriyete Karşı Suçlar
+    " karşılıksız yararlanma": 64, ->  Malvarlığına karşı suçlar
+    " göçmen kaçakçılığı": 59, -> Göçmen kaçakçılığı ve insan ticareti
+    " çocuğun kaçırılması ve alıkonulması": 58, -> Aile düzenine karşı suçlar
+    " basit yaralama": 57, -> Vücut dokunulmazlığına karşı suçlar
+    " tefecilik": 54, -> Ekonomi, sanayi ve ticarete ilişkin suçlar
+    " zimmet": 54, ->  Kamu idaresinin güvenilirliğine ve işleyişine karşı suçlar
+    " nitelikli cinsel saldırı": 51, -> Cinsel dokunulmazlığa karşı suçlar
+    " fuhuş": 50, -> Genel ahlaka karşı suçlar
+    " banka veya kredi kartlarının kötüye kullanılması": 49, -> Bilişim alanında suçlar
+    " beden veya ruh sağlığını bozacak şekilde çocuğun nitelikli cinsel istismarı": 49, -> Cinsel dokunulmazlığa karşı suçlar
+    " beden veya ruh sağlığını bozacak şekilde çocuğun cinsel istismarı": 49, -> Cinsel dokunulmazlığa karşı suçlar
+    " hakkı olmayan yere tecavüz": 48, -> Malvarlığına karşı suçlar
+    " defter ve belgeleri gizleme": 47, ->  Kamu güvenine karşı suçlar
+    " 6136 sayılı yasaya muhalefet": 45, -> Anayasal düzene ve bu düzenin işleyişine karşı suçlar
+    " 2863 sayılı kanuna aykırılık": 45, -> Çevreye karşı suçlar
+    " neticesi sebebiyle ağırlaşmış yaralama": 45, -> Vücut dokunulmazlığına karşı suçlar
+    " görevi kötüye kullanmak": 45, -> Kamu idaresinin güvenilirliğine ve işleyişine karşı suçlar
+    " tefecilik yapmak": 44, -> Ekonomi, sanayi ve ticarete ilişkin suçlar
+    " muhafaza görevini kötüye kullanma": 44, -> Adliyeye karşı suçlar
+    " i̇ş ve çalışma hürriyetinin ihlali": 44, -> Hürriyete Karşı Suçlar
+    " hükümlü veya tutuklunun kaçması": 43, -> Adliyeye karşı suçlar
+    " başkasına ait kimlik veya kimlik bilgilerini kullanma": 42, -> Adliyeye karşı suçlar
+    " mühür bozma": 42, -> Kamu güvenine karşı suçlar
+    " iş yeri dokunulmazlığının ihlali": 42, -> Hürriyete Karşı Suçlar
+    " taksirle öldürme": 41, -> Hayata karşı suçlar
+    " resmi belgenin düzenlenmesinde yalan beyan": 41, -> Kamu güvenine karşı suçlar
+    " 6136 sayılı kanuna aykırılık": 40, -> Anayasal düzene ve bu düzenin işleyişine karşı suçlar
+    " 6136 sayılı kanun'a muhalefet": 37, -> Anayasal düzene ve bu düzenin işleyişine karşı suçlar
+    " kenevir ekme": 37, -> Kamunun sağlığına karşı suçlar
+    " cinsel saldırı": 36, -> Cinsel dokunulmazlığa karşı suçlar
+    " 6136 sayılı kanuna muhalefet": 34, -> Anayasal düzene ve bu düzenin işleyişine karşı suçlar
+    " 6136 sayılı kanun'a aykırılık": 34, -> Anayasal düzene ve bu düzenin işleyişine karşı suçlar
+    " 6831 sayılı kanuna aykırılık": 34, -> Çevreye karşı suçlar
+    "kullanmak için uyuşturucu madde bulundurma": 33, -> Kamunun sağlığına karşı suçlar
+    " sahte fatura düzenlemek": 32, -> Kamu güvenine karşı suçlar
+    " müstehcenlik": 32, ->  Genel ahlaka karşı suçlar
+    " güveni kötüye kullanma": 31, -> Malvarlığına karşı suçlar
+    " kamu kurum ve kuruluşlarının zararına dolandırıcılık": 31, -> Malvarlığına karşı suçlar
+    " konut dokunulmazlığını ihlal etme": 30, -> Hürriyete Karşı Suçlar
+    " defter": 29, -> Kamu güvenine karşı suçlar
+    " 5846 sayılı kanuna aykırılık": 29, -> ->  Kamu güvenine karşı suçlar
+    " başkalarına ait kimlik veya kimlik bilgilerinin kullanılması": 27, -> Adliyeye karşı suçlar
+    " 4733 sayılı yasaya muhalefet": 26, -> Kamunun sağlığına karşı suçlar
+    " uyuşturucu veya uyarıcı madde ticareti yapma veya sağlama": 25, -> Kamunun sağlığına karşı suçlar
+    " defter ve belge gizleme": 25, -> Kamu güvenine karşı suçlar
+    " genel güvenliği tehlikeye sokacak şekilde kasten silahla ateş etme": 23, -> Anayasal düzene ve bu düzenin işleyişine karşı suçlar
+    " genel güvenliğin kasten tehlikeye sokulması": 23, -> Genel tehlike yaratan suçlar
+    " iftira": 22, -> Adliyeye karşı suçlar
+    " bilişim sistemleri banka veya kredi kurumlarının araç olarak kullanılması suretiyle dolandırıcılık": 22, -> Bilişim alanında suçlar
+    " suç uydurma": 21, -> Adliyeye karşı suçlar
+    " iş yeri dokunulmazlığını ihlal": 21, -> Hürriyete Karşı Suçlar
+    " basit kasten yaralama": 21, -> Vücut dokunulmazlığına karşı suçlar
+    " nitelikli hırsızlığa teşebbüs": 21, ->  Malvarlığına karşı suçlar
+    " 4733 sayılı yasaya aykırılık": 20, -> Kamunun sağlığına karşı suçlar
+    " 5809 sayılı kanuna aykırılık": 20 ->  Bilişim alanında suçlar
