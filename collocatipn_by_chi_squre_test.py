@@ -15,18 +15,18 @@ contents = []
 path_json_files = "C:/Users/husey/PycharmProjects/pythonProject10/2021-01/"
 pos_tagger = TurkishMorphology.create_with_defaults()
 results = []
-
+my_dict = {}
 
 # read json files
 def get_text():
     docs_num = 0
 
     for file_name in [file for file in os.listdir(path_json_files) if file.endswith('.json')]:
-
+        """
         docs_num += 1
         if docs_num == 100:
             break
-
+        """
         with open(path_json_files + file_name, encoding="utf8") as json_file:
             dict = json.load(json_file)
             text = dict["ictihat"]
@@ -103,7 +103,9 @@ def calculate_chi_square_test(word_1, word_2, bigram_words,word_1_counter, word_
         numerator = (document_total_size)*(((bigram_freq*document_total_size)-(word_1_counter*word_2_counter))**2)
         denominator = (bigram_freq+word_1_counter)*(bigram_freq+word_2_counter)*(word_1_counter+document_total_size)*(word_2_counter+document_total_size)
         chi_square_result = numerator/denominator
-        print(f'Word-1: {word_1}, Word-1-Size: {word_1_counter}, Word-2: {word_2}, Word-2-Size: {word_2_counter}, Bigram-Words: {bigram_words}, Bigram-Words-Size: {bigram_freq}, Chi-Square-Test {chi_square_result}')
+        # print(f'Word-1: {word_1}, Word-1-Size: {word_1_counter}, Word-2: {word_2}, Word-2-Size: {word_2_counter}, Bigram-Words: {bigram_words}, Bigram-Words-Size: {bigram_freq}, Chi-Square-Test {chi_square_result}')
+        #my_dict[bigram_words] = [f'Word-1: {word_1}, Word-1-Size: {word_1_counter}, Word-2: {word_2}, Word-2-Size: {word_2_counter}, Bigram-Words: {bigram_words}, Bigram-Words-Size: {bigram_freq}, Chi-Square-Test {chi_square_result}', chi_square_result]
+        my_dict[bigram_words] = [chi_square_result, f'Word-1: {word_1}, Word-1-Size: {word_1_counter}, Word-2: {word_2}, Word-2-Size: {word_2_counter}, Bigram-Words: {bigram_words}, Bigram-Words-Size: {bigram_freq}, Chi-Square-Test {chi_square_result}']
     except ZeroDivisionError:
         mutual_value = 1
 
@@ -145,7 +147,11 @@ def main():
     tagged_collocations = collocation_tags(token_freq)
     tagged_collocations_for_bigram = collocation_tags(token_freq_for_bigram)
     get_chi_square_information_values(tagged_collocations, tagged_collocations_for_bigram, len(unigram))
-
-
+    sorted_dict = {k: v for k, v in sorted(my_dict.items(), key=lambda item: item[1], reverse=True)}
+    for i in sorted_dict.items():
+        print(i)
+    print(sorted_dict)
+    print(token_freq)
+    # print(unigram)
 if __name__ == '__main__':
     main()
