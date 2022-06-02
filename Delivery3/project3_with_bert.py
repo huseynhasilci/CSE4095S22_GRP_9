@@ -8,7 +8,7 @@ from sklearn.metrics import confusion_matrix, classification_report
 import numpy as np
 from matplotlib import pyplot as plt
 import seaborn as sn
-df = pd.read_csv('datas-zemberek.csv')
+df = pd.read_csv('../datas-zemberek.csv')
 
 X = df['ictihat']
 y = df['NUM_LABEL']
