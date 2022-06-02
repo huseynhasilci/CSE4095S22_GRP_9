@@ -23,6 +23,7 @@ import os
 path_json_files = "C:/Users/husey/PycharmProjects/pythonProject10/2021-01/"
 
 
+
 def get_text():
     docs_num = 0
 
