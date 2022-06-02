@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import tensorflow as tf
 import tensorflow_hub as hub
 import tensorflow_text as text
@@ -130,4 +129,3 @@ sn.heatmap(cm, annot=True, fmt='d')
 plt.xlabel('Predicted')
 plt.ylabel('Truth')
 print(classification_report(y_test, y_predicted))
->>>>>>> origin/main
