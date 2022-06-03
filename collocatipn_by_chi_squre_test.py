@@ -134,6 +134,7 @@ def get_chi_square_information_values(tagged_unigram, tagged_bigram, document_to
 
 def main():
     unigram = get_text()
+    print(unigram)
     bigrams = nltk.bigrams(contents)
 
     # *********************************
